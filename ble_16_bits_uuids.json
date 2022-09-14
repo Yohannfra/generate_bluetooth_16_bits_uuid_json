@@ -1,3806 +1,5144 @@
 {
     "16-bit UUID for Members": [
         {
-            "0xFCE1": "Sony Group Corporation"
+            "uuid": "0xFCD5",
+            "name": "Nortek Security & Control"
         },
         {
-            "0xFCE2": "Baracoda Daily Healthtech"
+            "uuid": "0xFCD6 ",
+            "name": "SWISSINNO SOLUTIONS AG"
         },
         {
-            "0xFCE3": "Smith & Nephew Medical Limited"
+            "uuid": "0xFCD7 ",
+            "name": "PowerPal Pty Ltd"
         },
         {
-            "0xFCE4": "Samsara Networks, Inc"
+            "uuid": "0xFCD8 ",
+            "name": "Appex Factory S.L."
         },
         {
-            "0xFCE5": "Samsara Networks, Inc"
+            "uuid": "0xFCD9 ",
+            "name": "Huso, INC"
         },
         {
-            "0xFCE6": "Guard RFID Solutions Inc."
+            "uuid": "0xFCDA",
+            "name": "Draeger"
         },
         {
-            "0xFCE7": "TKH Security B.V."
+            "uuid": "0xFCDB ",
+            "name": "aconno GmbH"
         },
         {
-            "0xFCE8 ": "ITT Industries"
+            "uuid": "0xFCDC ",
+            "name": "Amazon.com Services, LLC"
         },
         {
-            "0xFCE9 ": "MindRhythm, Inc."
+            "uuid": "0xFCDD",
+            "name": "Mobilaris AB"
         },
         {
-            "0xFCEA ": "Chess Wise B.V."
+            "uuid": "0xFCDE",
+            "name": "ARCTOP, INC."
         },
         {
-            "0xFCEB ": "Avi-On"
+            "uuid": "0xFCDF ",
+            "name": "NIO USA, Inc."
         },
         {
-            "0xFCEC ": "Griffwerk GmbH"
+            "uuid": "0xFCE0 ",
+            "name": "Akciju sabiedriba \"SAF TEHNIKA\""
         },
         {
-            "0xFCED ": "Workaround Gmbh"
+            "uuid": "0xFCE1",
+            "name": "Sony Group Corporation"
         },
         {
-            "0xFCEE ": "Velentium, LLC"
+            "uuid": "0xFCE2",
+            "name": "Baracoda Daily Healthtech"
         },
         {
-            "0xFCEF ": "Divesoft s.r.o."
+            "uuid": "0xFCE3",
+            "name": "Smith & Nephew Medical Limited"
         },
         {
-            "0xFCF0": "Security Enhancement Systems, LLC"
+            "uuid": "0xFCE4",
+            "name": "Samsara Networks, Inc"
         },
         {
-            "0xFCF1 ": "Google LLC"
+            "uuid": "0xFCE5",
+            "name": "Samsara Networks, Inc"
         },
         {
-            "0xFCF2 ": "Bitwards Oy"
+            "uuid": "0xFCE6",
+            "name": "Guard RFID Solutions Inc."
         },
         {
-            "0xFCF3 ": "Armatura LLC"
+            "uuid": "0xFCE7",
+            "name": "TKH Security B.V."
         },
         {
-            "0xFCF4 ": " "
+            "uuid": "0xFCE8 ",
+            "name": "ITT Industries"
         },
         {
-            "0xFCF5 ": "Trident Communication Technology, LLC"
+            "uuid": "0xFCE9 ",
+            "name": "MindRhythm, Inc."
         },
         {
-            "0xFCF6 ": "The Linux Foundation"
+            "uuid": "0xFCEA ",
+            "name": "Chess Wise B.V."
         },
         {
-            "0xFCF7": "Honor Device Co., Ltd."
+            "uuid": "0xFCEB ",
+            "name": "Avi-On"
         },
         {
-            "0xFCF8": "Honor Device Co., Ltd."
+            "uuid": "0xFCEC ",
+            "name": "Griffwerk GmbH"
         },
         {
-            "0xFCF9 ": "Leupold & Stevens, Inc."
+            "uuid": "0xFCED ",
+            "name": "Workaround Gmbh"
         },
         {
-            "0xFCFA": "Leupold & Stevens, Inc."
+            "uuid": "0xFCEE ",
+            "name": "Velentium, LLC"
         },
         {
-            "0xFCFB ": "Shenzhen Benwei Media Co., Ltd."
+            "uuid": "0xFCEF ",
+            "name": "Divesoft s.r.o."
         },
         {
-            "0xFCFC ": "Barrot Technology Limited"
+            "uuid": "0xFCF0",
+            "name": "Security Enhancement Systems, LLC"
         },
         {
-            "0xFCFD ": "Barrot Technology Limited"
+            "uuid": "0xFCF1 ",
+            "name": "Google LLC"
         },
         {
-            "0xFCFE ": "Sennheiser Consumer Audio GmbH"
+            "uuid": "0xFCF2 ",
+            "name": "Bitwards Oy"
         },
         {
-            "0xFCFF ": "701x"
+            "uuid": "0xFCF3 ",
+            "name": "Armatura LLC"
         },
         {
-            "0xFD00": "FUTEK Advanced Sensor Technology, Inc."
+            "uuid": "0xFCF4 ",
+            "name": " "
         },
         {
-            "0xFD01": "Sanvita Medical Corporation"
+            "uuid": "0xFCF5 ",
+            "name": "Trident Communication Technology, LLC"
         },
         {
-            "0xFD02": "LEGO System A/S"
+            "uuid": "0xFCF6 ",
+            "name": "The Linux Foundation"
         },
         {
-            "0xFD03": "Quuppa Oy"
+            "uuid": "0xFCF7",
+            "name": "Honor Device Co., Ltd."
         },
         {
-            "0xFD04": "Shure Inc. "
+            "uuid": "0xFCF8",
+            "name": "Honor Device Co., Ltd."
         },
         {
-            "0xFD05": "Qualcomm Technologies, Inc."
+            "uuid": "0xFCF9 ",
+            "name": "Leupold & Stevens, Inc."
         },
         {
-            "0xFD06": "RACE-AI LLC"
+            "uuid": "0xFCFA",
+            "name": "Leupold & Stevens, Inc."
         },
         {
-            "0xFD07": "Swedlock AB"
+            "uuid": "0xFCFB ",
+            "name": "Shenzhen Benwei Media Co., Ltd."
         },
         {
-            "0xFD08": "Bull Group Incorporated Company"
+            "uuid": "0xFCFC ",
+            "name": "Barrot Technology Limited"
         },
         {
-            "0xFD09": "Cousins and Sears LLC"
+            "uuid": "0xFCFD ",
+            "name": "Barrot Technology Limited"
         },
         {
-            "0xFD0A": "Luminostics, Inc."
+            "uuid": "0xFCFE ",
+            "name": "Sennheiser Consumer Audio GmbH"
         },
         {
-            "0xFD0B": "Luminostics, Inc."
+            "uuid": "0xFCFF ",
+            "name": "701x"
         },
         {
-            "0xFD0C": "OSM HK Limited"
+            "uuid": "0xFD00",
+            "name": "FUTEK Advanced Sensor Technology, Inc."
         },
         {
-            "0xFD0D": "Blecon Ltd"
+            "uuid": "0xFD01",
+            "name": "Sanvita Medical Corporation"
         },
         {
-            "0xFD0E": "HerdDogg, Inc"
+            "uuid": "0xFD02",
+            "name": "LEGO System A/S"
         },
         {
-            "0xFD0F": "AEON MOTOR CO.,LTD."
+            "uuid": "0xFD03",
+            "name": "Quuppa Oy"
         },
         {
-            "0xFD10": "AEON MOTOR CO.,LTD."
+            "uuid": "0xFD04",
+            "name": "Shure Inc. "
         },
         {
-            "0xFD11": "AEON MOTOR CO.,LTD."
+            "uuid": "0xFD05",
+            "name": "Qualcomm Technologies, Inc."
         },
         {
-            "0xFD12": "AEON MOTOR CO.,LTD."
+            "uuid": "0xFD06",
+            "name": "RACE-AI LLC"
         },
         {
-            "0xFD13": "BRG Sports, Inc."
+            "uuid": "0xFD07",
+            "name": "Swedlock AB"
         },
         {
-            "0xFD14": "BRG Sports, Inc."
+            "uuid": "0xFD08",
+            "name": "Bull Group Incorporated Company"
         },
         {
-            "0xFD15": "Panasonic Corporation"
+            "uuid": "0xFD09",
+            "name": "Cousins and Sears LLC"
         },
         {
-            "0xFD16": "Sensitech, Inc."
+            "uuid": "0xFD0A",
+            "name": "Luminostics, Inc."
         },
         {
-            "0xFD17": "LEGIC Identsystems AG"
+            "uuid": "0xFD0B",
+            "name": "Luminostics, Inc."
         },
         {
-            "0xFD18": "LEGIC Identsystems AG"
+            "uuid": "0xFD0C",
+            "name": "OSM HK Limited"
         },
         {
-            "0xFD19": "Smith & Nephew Medical Limited"
+            "uuid": "0xFD0D",
+            "name": "Blecon Ltd"
         },
         {
-            "0xFD1A": "CSIRO"
+            "uuid": "0xFD0E",
+            "name": "HerdDogg, Inc"
         },
         {
-            "0xFD1B": "Helios Sports, Inc. "
+            "uuid": "0xFD0F",
+            "name": "AEON MOTOR CO.,LTD."
         },
         {
-            "0xFD1C": "Brady Worldwide Inc."
+            "uuid": "0xFD10",
+            "name": "AEON MOTOR CO.,LTD."
         },
         {
-            "0xFD1D": "Samsung Electronics Co., Ltd"
+            "uuid": "0xFD11",
+            "name": "AEON MOTOR CO.,LTD."
         },
         {
-            "0xFD1E": "Plume Design Inc."
+            "uuid": "0xFD12",
+            "name": "AEON MOTOR CO.,LTD."
         },
         {
-            "0xFD1F": "3M"
+            "uuid": "0xFD13",
+            "name": "BRG Sports, Inc."
         },
         {
-            "0xFD20": "GN Hearing A/S"
+            "uuid": "0xFD14",
+            "name": "BRG Sports, Inc."
         },
         {
-            "0xFD21": "Huawei Technologies Co., Ltd."
+            "uuid": "0xFD15",
+            "name": "Panasonic Corporation"
         },
         {
-            "0xFD22": "Huawei Technologies Co., Ltd."
+            "uuid": "0xFD16",
+            "name": "Sensitech, Inc."
         },
         {
-            "0xFD23": "DOM Sicherheitstechnik GmbH & Co. KG"
+            "uuid": "0xFD17",
+            "name": "LEGIC Identsystems AG"
         },
         {
-            "0xFD24": "GD Midea Air-Conditioning Equipment Co., Ltd."
+            "uuid": "0xFD18",
+            "name": "LEGIC Identsystems AG"
         },
         {
-            "0xFD25": "GD Midea Air-Conditioning Equipment Co., Ltd."
+            "uuid": "0xFD19",
+            "name": "Smith & Nephew Medical Limited"
         },
         {
-            "0xFD26": "Novo Nordisk A/S"
+            "uuid": "0xFD1A",
+            "name": "CSIRO"
         },
         {
-            "0xFD27": "i2Systems"
+            "uuid": "0xFD1B",
+            "name": "Helios Sports, Inc. "
         },
         {
-            "0xFD28": "Julius Blum GmbH"
+            "uuid": "0xFD1C",
+            "name": "Brady Worldwide Inc."
         },
         {
-            "0xFD29": "Asahi Kasei Corporation"
+            "uuid": "0xFD1D",
+            "name": "Samsung Electronics Co., Ltd"
         },
         {
-            "0xFD2A": "Sony Corporation"
+            "uuid": "0xFD1E",
+            "name": "Plume Design Inc."
         },
         {
-            "0xFD2B": "The Access Technologies"
+            "uuid": "0xFD1F",
+            "name": "3M"
         },
         {
-            "0xFD2C": "The Access Technologies"
+            "uuid": "0xFD20",
+            "name": "GN Hearing A/S"
         },
         {
-            "0xFD2D": "Xiaomi Inc."
+            "uuid": "0xFD21",
+            "name": "Huawei Technologies Co., Ltd."
         },
         {
-            "0xFD2E": "Bitstrata Systems Inc."
+            "uuid": "0xFD22",
+            "name": "Huawei Technologies Co., Ltd."
         },
         {
-            "0xFD2F": "Bitstrata Systems Inc."
+            "uuid": "0xFD23",
+            "name": "DOM Sicherheitstechnik GmbH & Co. KG"
         },
         {
-            "0xFD30": "Sesam Solutions BV"
+            "uuid": "0xFD24",
+            "name": "GD Midea Air-Conditioning Equipment Co., Ltd."
         },
         {
-            "0xFD31": "LG Electronics Inc."
+            "uuid": "0xFD25",
+            "name": "GD Midea Air-Conditioning Equipment Co., Ltd."
         },
         {
-            "0xFD32": "Gemalto Holding BV"
+            "uuid": "0xFD26",
+            "name": "Novo Nordisk A/S"
         },
         {
-            "0xFD33": "DashLogic, Inc."
+            "uuid": "0xFD27",
+            "name": "i2Systems"
         },
         {
-            "0xFD34": "Aerosens LLC."
+            "uuid": "0xFD28",
+            "name": "Julius Blum GmbH"
         },
         {
-            "0xFD35": "Transsion Holdings Limited"
+            "uuid": "0xFD29",
+            "name": "Asahi Kasei Corporation"
         },
         {
-            "0xFD36": "Google LLC"
+            "uuid": "0xFD2A",
+            "name": "Sony Corporation"
         },
         {
-            "0xFD37": "TireCheck GmbH"
+            "uuid": "0xFD2B",
+            "name": "The Access Technologies"
         },
         {
-            "0xFD38": "Danfoss A/S"
+            "uuid": "0xFD2C",
+            "name": "The Access Technologies"
         },
         {
-            "0xFD39": "PREDIKTAS"
+            "uuid": "0xFD2D",
+            "name": "Xiaomi Inc."
         },
         {
-            "0xFD3A": "Verkada Inc."
+            "uuid": "0xFD2E",
+            "name": "Bitstrata Systems Inc."
         },
         {
-            "0xFD3B": "Verkada Inc."
+            "uuid": "0xFD2F",
+            "name": "Bitstrata Systems Inc."
         },
         {
-            "0xFD3C": "Redline Communications Inc."
+            "uuid": "0xFD30",
+            "name": "Sesam Solutions BV"
         },
         {
-            "0xFD3D": "Woan Technology (Shenzhen) Co., Ltd."
+            "uuid": "0xFD31",
+            "name": "LG Electronics Inc."
         },
         {
-            "0xFD3E": "Pure Watercraft, inc."
+            "uuid": "0xFD32",
+            "name": "Gemalto Holding BV"
         },
         {
-            "0xFD3F": "Cognosos, Inc"
+            "uuid": "0xFD33",
+            "name": "DashLogic, Inc."
         },
         {
-            "0xFD40": "Beflex Inc."
+            "uuid": "0xFD34",
+            "name": "Aerosens LLC."
         },
         {
-            "0xFD41": "Amazon Lab126"
+            "uuid": "0xFD35",
+            "name": "Transsion Holdings Limited"
         },
         {
-            "0xFD42": "Globe (Jiangsu) Co.,Ltd"
+            "uuid": "0xFD36",
+            "name": "Google LLC"
         },
         {
-            "0xFD43": "Apple Inc."
+            "uuid": "0xFD37",
+            "name": "TireCheck GmbH"
         },
         {
-            "0xFD44": "Apple Inc."
+            "uuid": "0xFD38",
+            "name": "Danfoss A/S"
         },
         {
-            "0xFD45": "GB Solution co.,Ltd"
+            "uuid": "0xFD39",
+            "name": "PREDIKTAS"
         },
         {
-            "0xFD46": "Lemco IKE"
+            "uuid": "0xFD3A",
+            "name": "Verkada Inc."
         },
         {
-            "0xFD47": "Liberty Global Inc."
+            "uuid": "0xFD3B",
+            "name": "Verkada Inc."
         },
         {
-            "0xFD48": "Geberit International AG"
+            "uuid": "0xFD3C",
+            "name": "Redline Communications Inc."
         },
         {
-            "0xFD49": "Panasonic Corporation"
+            "uuid": "0xFD3D",
+            "name": "Woan Technology (Shenzhen) Co., Ltd."
         },
         {
-            "0xFD4A": "Sigma Elektro GmbH"
+            "uuid": "0xFD3E",
+            "name": "Pure Watercraft, inc."
         },
         {
-            "0xFD4B": "Samsung Electronics Co., Ltd."
+            "uuid": "0xFD3F",
+            "name": "Cognosos, Inc"
         },
         {
-            "0xFD4C": "Adolf Wuerth GmbH & Co KG"
+            "uuid": "0xFD40",
+            "name": "Beflex Inc."
         },
         {
-            "0xFD4D": "70mai Co.,Ltd."
+            "uuid": "0xFD41",
+            "name": "Amazon Lab126"
         },
         {
-            "0xFD4E": "70mai Co.,Ltd."
+            "uuid": "0xFD42",
+            "name": "Globe (Jiangsu) Co.,Ltd"
         },
         {
-            "0xFD4F": "Forkbeard Technologies AS"
+            "uuid": "0xFD43",
+            "name": "Apple Inc."
         },
         {
-            "0xFD50": "Hangzhou Tuya Information  Technology Co., Ltd"
+            "uuid": "0xFD44",
+            "name": "Apple Inc."
         },
         {
-            "0xFD51": "UTC Fire and Security"
+            "uuid": "0xFD45",
+            "name": "GB Solution co.,Ltd"
         },
         {
-            "0xFD52": "UTC Fire and Security"
+            "uuid": "0xFD46",
+            "name": "Lemco IKE"
         },
         {
-            "0xFD53": "PCI Private Limited"
+            "uuid": "0xFD47",
+            "name": "Liberty Global Inc."
         },
         {
-            "0xFD54": "Qingdao Haier Technology Co., Ltd."
+            "uuid": "0xFD48",
+            "name": "Geberit International AG"
         },
         {
-            "0xFD55": "Braveheart Wireless, Inc."
+            "uuid": "0xFD49",
+            "name": "Panasonic Corporation"
         },
         {
-            "0xFD56": "Resmed Ltd"
+            "uuid": "0xFD4A",
+            "name": "Sigma Elektro GmbH"
         },
         {
-            "0xFD57": "Volvo Car Corporation"
+            "uuid": "0xFD4B",
+            "name": "Samsung Electronics Co., Ltd."
         },
         {
-            "0xFD58": "Volvo Car Corporation"
+            "uuid": "0xFD4C",
+            "name": "Adolf Wuerth GmbH & Co KG"
         },
         {
-            "0xFD59": "Samsung Electronics Co., Ltd."
+            "uuid": "0xFD4D",
+            "name": "70mai Co.,Ltd."
         },
         {
-            "0xFD5A": "Samsung Electronics Co., Ltd."
+            "uuid": "0xFD4E",
+            "name": "70mai Co.,Ltd."
         },
         {
-            "0xFD5B": "V2SOFT INC."
+            "uuid": "0xFD4F",
+            "name": "Forkbeard Technologies AS"
         },
         {
-            "0xFD5C": "React Mobile"
+            "uuid": "0xFD50",
+            "name": "Hangzhou Tuya Information  Technology Co., Ltd"
         },
         {
-            "0xFD5D": "maxon motor ltd."
+            "uuid": "0xFD51",
+            "name": "UTC Fire and Security"
         },
         {
-            "0xFD5E": "Tapkey GmbH"
+            "uuid": "0xFD52",
+            "name": "UTC Fire and Security"
         },
         {
-            "0xFD5F": "Oculus VR, LLC"
+            "uuid": "0xFD53",
+            "name": "PCI Private Limited"
         },
         {
-            "0xFD60": "Sercomm Corporation"
+            "uuid": "0xFD54",
+            "name": "Qingdao Haier Technology Co., Ltd."
         },
         {
-            "0xFD61": "Arendi AG"
+            "uuid": "0xFD55",
+            "name": "Braveheart Wireless, Inc."
         },
         {
-            "0xFD62": "Fitbit, Inc."
+            "uuid": "0xFD56",
+            "name": "Resmed Ltd"
         },
         {
-            "0xFD63": "Fitbit, Inc."
+            "uuid": "0xFD57",
+            "name": "Volvo Car Corporation"
         },
         {
-            "0xFD64": "INRIA"
+            "uuid": "0xFD58",
+            "name": "Volvo Car Corporation"
         },
         {
-            "0xFD65": "Razer Inc."
+            "uuid": "0xFD59",
+            "name": "Samsung Electronics Co., Ltd."
         },
         {
-            "0xFD66": "Zebra Technologies Corporation"
+            "uuid": "0xFD5A",
+            "name": "Samsung Electronics Co., Ltd."
         },
         {
-            "0xFD67": "Montblanc Simplo GmbH"
+            "uuid": "0xFD5B",
+            "name": "V2SOFT INC."
         },
         {
-            "0xFD68": "Ubique Innovation AG"
+            "uuid": "0xFD5C",
+            "name": "React Mobile"
         },
         {
-            "0xFD69": "Samsung Electronics Co., Ltd"
+            "uuid": "0xFD5D",
+            "name": "maxon motor ltd."
         },
         {
-            "0xFD6A": "Emerson"
+            "uuid": "0xFD5E",
+            "name": "Tapkey GmbH"
         },
         {
-            "0xFD6B": "rapitag GmbH"
+            "uuid": "0xFD5F",
+            "name": "Oculus VR, LLC"
         },
         {
-            "0xFD6C": "Samsung Electronics Co., Ltd."
+            "uuid": "0xFD60",
+            "name": "Sercomm Corporation"
         },
         {
-            "0xFD6D": "Sigma Elektro GmbH"
+            "uuid": "0xFD61",
+            "name": "Arendi AG"
         },
         {
-            "0xFD6E": "Polidea sp. z o.o."
+            "uuid": "0xFD62",
+            "name": "Fitbit, Inc."
         },
         {
-            "0xFD6F": "Apple, Inc."
+            "uuid": "0xFD63",
+            "name": "Fitbit, Inc."
         },
         {
-            "0xFD70": "GuangDong Oppo Mobile Telecommunications Corp., Ltd"
+            "uuid": "0xFD64",
+            "name": "INRIA"
         },
         {
-            "0xFD71": "GN Hearing A/S"
+            "uuid": "0xFD65",
+            "name": "Razer Inc."
         },
         {
-            "0xFD72": "Logitech International SA"
+            "uuid": "0xFD66",
+            "name": "Zebra Technologies Corporation"
         },
         {
-            "0xFD73": "BRControls Products BV"
+            "uuid": "0xFD67",
+            "name": "Montblanc Simplo GmbH"
         },
         {
-            "0xFD74": "BRControls Products BV"
+            "uuid": "0xFD68",
+            "name": "Ubique Innovation AG"
         },
         {
-            "0xFD75": "Insulet Corporation"
+            "uuid": "0xFD69",
+            "name": "Samsung Electronics Co., Ltd"
         },
         {
-            "0xFD76": "Insulet Corporation"
+            "uuid": "0xFD6A",
+            "name": "Emerson"
         },
         {
-            "0xFD77": "Withings"
+            "uuid": "0xFD6B",
+            "name": "rapitag GmbH"
         },
         {
-            "0xFD78": "Withings"
+            "uuid": "0xFD6C",
+            "name": "Samsung Electronics Co., Ltd."
         },
         {
-            "0xFD79": "Withings"
+            "uuid": "0xFD6D",
+            "name": "Sigma Elektro GmbH"
         },
         {
-            "0xFD7A": "Withings"
+            "uuid": "0xFD6E",
+            "name": "Polidea sp. z o.o."
         },
         {
-            "0xFD7B": "WYZE LABS, INC."
+            "uuid": "0xFD6F",
+            "name": "Apple, Inc."
         },
         {
-            "0xFD7C": "Toshiba Information Systems(Japan) Corporation"
+            "uuid": "0xFD70",
+            "name": "GuangDong Oppo Mobile Telecommunications Corp., Ltd"
         },
         {
-            "0xFD7D": "Center for Advanced Research Wernher Von Braun"
+            "uuid": "0xFD71",
+            "name": "GN Hearing A/S"
         },
         {
-            "0xFD7E": "Samsung Electronics Co., Ltd."
+            "uuid": "0xFD72",
+            "name": "Logitech International SA"
         },
         {
-            "0xFD7F": "Husqvarna AB"
+            "uuid": "0xFD73",
+            "name": "BRControls Products BV"
         },
         {
-            "0xFD80": "Phindex Technologies, Inc"
+            "uuid": "0xFD74",
+            "name": "BRControls Products BV"
         },
         {
-            "0xFD81": "CANDY HOUSE, Inc."
+            "uuid": "0xFD75",
+            "name": "Insulet Corporation"
         },
         {
-            "0xFD82": "Sony Corporation"
+            "uuid": "0xFD76",
+            "name": "Insulet Corporation"
         },
         {
-            "0xFD83": "iNFORM Technology GmbH"
+            "uuid": "0xFD77",
+            "name": "Withings"
         },
         {
-            "0xFD84": "Tile, Inc."
+            "uuid": "0xFD78",
+            "name": "Withings"
         },
         {
-            "0xFD85": "Husqvarna AB"
+            "uuid": "0xFD79",
+            "name": "Withings"
         },
         {
-            "0xFD86": "Abbott"
+            "uuid": "0xFD7A",
+            "name": "Withings"
         },
         {
-            "0xFD87": "Google LLC"
+            "uuid": "0xFD7B",
+            "name": "WYZE LABS, INC."
         },
         {
-            "0xFD88": "Urbanminded LTD"
+            "uuid": "0xFD7C",
+            "name": "Toshiba Information Systems(Japan) Corporation"
         },
         {
-            "0xFD89": "Urbanminded LTD"
+            "uuid": "0xFD7D",
+            "name": "Center for Advanced Research Wernher Von Braun"
         },
         {
-            "0xFD8A": "Signify Netherlands B.V."
+            "uuid": "0xFD7E",
+            "name": "Samsung Electronics Co., Ltd."
         },
         {
-            "0xFD8B": "Jigowatts Inc."
+            "uuid": "0xFD7F",
+            "name": "Husqvarna AB"
         },
         {
-            "0xFD8C": "Google LLC"
+            "uuid": "0xFD80",
+            "name": "Phindex Technologies, Inc"
         },
         {
-            "0xFD8D": "quip NYC Inc."
+            "uuid": "0xFD81",
+            "name": "CANDY HOUSE, Inc."
         },
         {
-            "0xFD8E": "Motorola Solutions"
+            "uuid": "0xFD82",
+            "name": "Sony Corporation"
         },
         {
-            "0xFD8F": "Matrix ComSec Pvt. Ltd."
+            "uuid": "0xFD83",
+            "name": "iNFORM Technology GmbH"
         },
         {
-            "0xFD90": "Guangzhou SuperSound Information Technology Co.,Ltd"
+            "uuid": "0xFD84",
+            "name": "Tile, Inc."
         },
         {
-            "0xFD91": "Groove X, Inc."
+            "uuid": "0xFD85",
+            "name": "Husqvarna AB"
         },
         {
-            "0xFD92": "Qualcomm Technologies International, Ltd. (QTIL)     "
+            "uuid": "0xFD86",
+            "name": "Abbott"
         },
         {
-            "0xFD93": "Bayerische Motoren Werke AG"
+            "uuid": "0xFD87",
+            "name": "Google LLC"
         },
         {
-            "0xFD94": "Hewlett Packard Enterprise"
+            "uuid": "0xFD88",
+            "name": "Urbanminded LTD"
         },
         {
-            "0xFD95": "Rigado"
+            "uuid": "0xFD89",
+            "name": "Urbanminded LTD"
         },
         {
-            "0xFD96": "Google LLC"
+            "uuid": "0xFD8A",
+            "name": "Signify Netherlands B.V."
         },
         {
-            "0xFD97": "June Life, Inc."
+            "uuid": "0xFD8B",
+            "name": "Jigowatts Inc."
         },
         {
-            "0xFD98": "Disney Worldwide Services, Inc."
+            "uuid": "0xFD8C",
+            "name": "Google LLC"
         },
         {
-            "0xFD99": "ABB Oy"
+            "uuid": "0xFD8D",
+            "name": "quip NYC Inc."
         },
         {
-            "0xFD9A": "Huawei Technologies Co., Ltd."
+            "uuid": "0xFD8E",
+            "name": "Motorola Solutions"
         },
         {
-            "0xFD9B": "Huawei Technologies Co., Ltd."
+            "uuid": "0xFD8F",
+            "name": "Matrix ComSec Pvt. Ltd."
         },
         {
-            "0xFD9C": "Huawei Technologies Co., Ltd."
+            "uuid": "0xFD90",
+            "name": "Guangzhou SuperSound Information Technology Co.,Ltd"
         },
         {
-            "0xFD9D": "Gastec Corporation"
+            "uuid": "0xFD91",
+            "name": "Groove X, Inc."
         },
         {
-            "0xFD9E": "The Coca-Cola Company"
+            "uuid": "0xFD92",
+            "name": "Qualcomm Technologies International, Ltd. (QTIL)     "
         },
         {
-            "0xFD9F": "VitalTech Affiliates LLC"
+            "uuid": "0xFD93",
+            "name": "Bayerische Motoren Werke AG"
         },
         {
-            "0xFDA0": "Secugen Corporation"
+            "uuid": "0xFD94",
+            "name": "Hewlett Packard Enterprise"
         },
         {
-            "0xFDA1": "Groove X, Inc"
+            "uuid": "0xFD95",
+            "name": "Rigado"
         },
         {
-            "0xFDA2": "Groove X, Inc"
+            "uuid": "0xFD96",
+            "name": "Google LLC"
         },
         {
-            "0xFDA3": "Inseego Corp."
+            "uuid": "0xFD97",
+            "name": "June Life, Inc."
         },
         {
-            "0xFDA4": "Inseego Corp."
+            "uuid": "0xFD98",
+            "name": "Disney Worldwide Services, Inc."
         },
         {
-            "0xFDA5": "Neurostim OAB, Inc."
+            "uuid": "0xFD99",
+            "name": "ABB Oy"
         },
         {
-            "0xFDA6": "WWZN Information Technology Company Limited"
+            "uuid": "0xFD9A",
+            "name": "Huawei Technologies Co., Ltd."
         },
         {
-            "0xFDA7": "WWZN Information Technology Company Limited"
+            "uuid": "0xFD9B",
+            "name": "Huawei Technologies Co., Ltd."
         },
         {
-            "0xFDA8": "PSA Peugeot Citro\u00ebn"
+            "uuid": "0xFD9C",
+            "name": "Huawei Technologies Co., Ltd."
         },
         {
-            "0xFDA9": "Rhombus Systems, Inc."
+            "uuid": "0xFD9D",
+            "name": "Gastec Corporation"
         },
         {
-            "0xFDAA": "Xiaomi Inc."
+            "uuid": "0xFD9E",
+            "name": "The Coca-Cola Company"
         },
         {
-            "0xFDAB": "Xiaomi Inc."
+            "uuid": "0xFD9F",
+            "name": "VitalTech Affiliates LLC"
         },
         {
-            "0xFDAC": "Tentacle Sync GmbH"
+            "uuid": "0xFDA0",
+            "name": "Secugen Corporation"
         },
         {
-            "0xFDAD": "Houwa System Design, k.k."
+            "uuid": "0xFDA1",
+            "name": "Groove X, Inc"
         },
         {
-            "0xFDAE": "Houwa System Design, k.k."
+            "uuid": "0xFDA2",
+            "name": "Groove X, Inc"
         },
         {
-            "0xFDAF": "Wiliot LTD"
+            "uuid": "0xFDA3",
+            "name": "Inseego Corp."
         },
         {
-            "0xFDB0": "Proxy Technologies, Inc."
+            "uuid": "0xFDA4",
+            "name": "Inseego Corp."
         },
         {
-            "0xFDB1": "Proxy Technologies, Inc."
+            "uuid": "0xFDA5",
+            "name": "Neurostim OAB, Inc."
         },
         {
-            "0xFDB2": "Portable Multimedia Ltd "
+            "uuid": "0xFDA6",
+            "name": "WWZN Information Technology Company Limited"
         },
         {
-            "0xFDB3": "Audiodo AB"
+            "uuid": "0xFDA7",
+            "name": "WWZN Information Technology Company Limited"
         },
         {
-            "0xFDB4": "HP Inc"
+            "uuid": "0xFDA8",
+            "name": "PSA Peugeot Citro\u00ebn"
         },
         {
-            "0xFDB5": "ECSG"
+            "uuid": "0xFDA9",
+            "name": "Rhombus Systems, Inc."
         },
         {
-            "0xFDB6": "GWA Hygiene GmbH"
+            "uuid": "0xFDAA",
+            "name": "Xiaomi Inc."
         },
         {
-            "0xFDB7": "LivaNova USA Inc."
+            "uuid": "0xFDAB",
+            "name": "Xiaomi Inc."
         },
         {
-            "0xFDB8": "LivaNova USA Inc."
+            "uuid": "0xFDAC",
+            "name": "Tentacle Sync GmbH"
         },
         {
-            "0xFDB9": "Comcast Cable Corporation"
+            "uuid": "0xFDAD",
+            "name": "Houwa System Design, k.k."
         },
         {
-            "0xFDBA": "Comcast Cable Corporation"
+            "uuid": "0xFDAE",
+            "name": "Houwa System Design, k.k."
         },
         {
-            "0xFDBB": "Profoto"
+            "uuid": "0xFDAF",
+            "name": "Wiliot LTD"
         },
         {
-            "0xFDBC": "Emerson"
+            "uuid": "0xFDB0",
+            "name": "Proxy Technologies, Inc."
         },
         {
-            "0xFDBD": "Clover Network, Inc."
+            "uuid": "0xFDB1",
+            "name": "Proxy Technologies, Inc."
         },
         {
-            "0xFDBE": "California Things Inc. "
+            "uuid": "0xFDB2",
+            "name": "Portable Multimedia Ltd "
         },
         {
-            "0xFDBF": "California Things Inc. "
+            "uuid": "0xFDB3",
+            "name": "Audiodo AB"
         },
         {
-            "0xFDC0": "Hunter Douglas"
+            "uuid": "0xFDB4",
+            "name": "HP Inc"
         },
         {
-            "0xFDC1": "Hunter Douglas"
+            "uuid": "0xFDB5",
+            "name": "ECSG"
         },
         {
-            "0xFDC2": "Baidu Online Network Technology (Beijing) Co., Ltd"
+            "uuid": "0xFDB6",
+            "name": "GWA Hygiene GmbH"
         },
         {
-            "0xFDC3": "Baidu Online Network Technology (Beijing) Co., Ltd"
+            "uuid": "0xFDB7",
+            "name": "LivaNova USA Inc."
         },
         {
-            "0xFDC4": "Simavita (Aust) Pty Ltd"
+            "uuid": "0xFDB8",
+            "name": "LivaNova USA Inc."
         },
         {
-            "0xFDC5": "Automatic Labs"
+            "uuid": "0xFDB9",
+            "name": "Comcast Cable Corporation"
         },
         {
-            "0xFDC6": "Eli Lilly and Company"
+            "uuid": "0xFDBA",
+            "name": "Comcast Cable Corporation"
         },
         {
-            "0xFDC7": "Eli Lilly and Company"
+            "uuid": "0xFDBB",
+            "name": "Profoto"
         },
         {
-            "0xFDC8": "Hach \u2013 Danaher"
+            "uuid": "0xFDBC",
+            "name": "Emerson"
         },
         {
-            "0xFDC9": "Busch-Jaeger Elektro GmbH"
+            "uuid": "0xFDBD",
+            "name": "Clover Network, Inc."
         },
         {
-            "0xFDCA": "Fortin Electronic Systems "
+            "uuid": "0xFDBE",
+            "name": "California Things Inc. "
         },
         {
-            "0xFDCB": "Meggitt SA"
+            "uuid": "0xFDBF",
+            "name": "California Things Inc. "
         },
         {
-            "0xFDCC": "Shoof Technologies"
+            "uuid": "0xFDC0",
+            "name": "Hunter Douglas"
         },
         {
-            "0xFDCD": "Qingping Technology (Beijing) Co., Ltd."
+            "uuid": "0xFDC1",
+            "name": "Hunter Douglas"
         },
         {
-            "0xFDCE": "SENNHEISER electronic GmbH & Co. KG"
+            "uuid": "0xFDC2",
+            "name": "Baidu Online Network Technology (Beijing) Co., Ltd"
         },
         {
-            "0xFDCF": "Nalu Medical, Inc"
+            "uuid": "0xFDC3",
+            "name": "Baidu Online Network Technology (Beijing) Co., Ltd"
         },
         {
-            "0xFDD0": "Huawei Technologies Co., Ltd "
+            "uuid": "0xFDC4",
+            "name": "Simavita (Aust) Pty Ltd"
         },
         {
-            "0xFDD1": "Huawei Technologies Co., Ltd "
+            "uuid": "0xFDC5",
+            "name": "Automatic Labs"
         },
         {
-            "0xFDD2": "Bose Corporation"
+            "uuid": "0xFDC6",
+            "name": "Eli Lilly and Company"
         },
         {
-            "0xFDD3": "FUBA Automotive Electronics GmbH"
+            "uuid": "0xFDC7",
+            "name": "Eli Lilly and Company"
         },
         {
-            "0xFDD4": "LX Solutions Pty Limited"
+            "uuid": "0xFDC8",
+            "name": "Hach \u2013 Danaher"
         },
         {
-            "0xFDD5": "Brompton Bicycle Ltd"
+            "uuid": "0xFDC9",
+            "name": "Busch-Jaeger Elektro GmbH"
         },
         {
-            "0xFDD6": "Ministry of Supply "
+            "uuid": "0xFDCA",
+            "name": "Fortin Electronic Systems "
         },
         {
-            "0xFDD7": "Emerson"
+            "uuid": "0xFDCB",
+            "name": "Meggitt SA"
         },
         {
-            "0xFDD8": "Jiangsu Teranovo Tech Co., Ltd."
+            "uuid": "0xFDCC",
+            "name": "Shoof Technologies"
         },
         {
-            "0xFDD9": "Jiangsu Teranovo Tech Co., Ltd."
+            "uuid": "0xFDCD",
+            "name": "Qingping Technology (Beijing) Co., Ltd."
         },
         {
-            "0xFDDA": "MHCS"
+            "uuid": "0xFDCE",
+            "name": "SENNHEISER electronic GmbH & Co. KG"
         },
         {
-            "0xFDDB": "Samsung Electronics Co., Ltd. "
+            "uuid": "0xFDCF",
+            "name": "Nalu Medical, Inc"
         },
         {
-            "0xFDDC": "4iiii Innovations Inc."
+            "uuid": "0xFDD0",
+            "name": "Huawei Technologies Co., Ltd "
         },
         {
-            "0xFDDD": "Arch Systems Inc"
+            "uuid": "0xFDD1",
+            "name": "Huawei Technologies Co., Ltd "
         },
         {
-            "0xFDDE": "Noodle Technology Inc. "
+            "uuid": "0xFDD2",
+            "name": "Bose Corporation"
         },
         {
-            "0xFDDF": "Harman International"
+            "uuid": "0xFDD3",
+            "name": "FUBA Automotive Electronics GmbH"
         },
         {
-            "0xFDE0": "John Deere"
+            "uuid": "0xFDD4",
+            "name": "LX Solutions Pty Limited"
         },
         {
-            "0xFDE1": "Fortin Electronic Systems "
+            "uuid": "0xFDD5",
+            "name": "Brompton Bicycle Ltd"
         },
         {
-            "0xFDE2": "Google LLC"
+            "uuid": "0xFDD6",
+            "name": "Ministry of Supply "
         },
         {
-            "0xFDE3": "Abbott Diabetes Care"
+            "uuid": "0xFDD7",
+            "name": "Emerson"
         },
         {
-            "0xFDE4": "JUUL Labs, Inc."
+            "uuid": "0xFDD8",
+            "name": "Jiangsu Teranovo Tech Co., Ltd."
         },
         {
-            "0xFDE5": "SMK Corporation "
+            "uuid": "0xFDD9",
+            "name": "Jiangsu Teranovo Tech Co., Ltd."
         },
         {
-            "0xFDE6": "Intelletto Technologies Inc"
+            "uuid": "0xFDDA",
+            "name": "MHCS"
         },
         {
-            "0xFDE7": "SECOM Co., LTD"
+            "uuid": "0xFDDB",
+            "name": "Samsung Electronics Co., Ltd. "
         },
         {
-            "0xFDE8": "Robert Bosch GmbH"
+            "uuid": "0xFDDC",
+            "name": "4iiii Innovations Inc."
         },
         {
-            "0xFDE9": "Spacesaver Corporation"
+            "uuid": "0xFDDD",
+            "name": "Arch Systems Inc"
         },
         {
-            "0xFDEA": "SeeScan, Inc"
+            "uuid": "0xFDDE",
+            "name": "Noodle Technology Inc. "
         },
         {
-            "0xFDEB": "Syntronix Corporation"
+            "uuid": "0xFDDF",
+            "name": "Harman International"
         },
         {
-            "0xFDEC": "Mannkind Corporation"
+            "uuid": "0xFDE0",
+            "name": "John Deere"
         },
         {
-            "0xFDED": "Pole Star"
+            "uuid": "0xFDE1",
+            "name": "Fortin Electronic Systems "
         },
         {
-            "0xFDEE": "Huawei Technologies Co., Ltd."
+            "uuid": "0xFDE2",
+            "name": "Google LLC"
         },
         {
-            "0xFDEF": "ART AND PROGRAM, INC."
+            "uuid": "0xFDE3",
+            "name": "Abbott Diabetes Care"
         },
         {
-            "0xFDF0": "Google LLC"
+            "uuid": "0xFDE4",
+            "name": "JUUL Labs, Inc."
         },
         {
-            "0xFDF1": "LAMPLIGHT Co.,Ltd"
+            "uuid": "0xFDE5",
+            "name": "SMK Corporation "
         },
         {
-            "0xFDF2": "AMICCOM Electronics Corporation"
+            "uuid": "0xFDE6",
+            "name": "Intelletto Technologies Inc"
         },
         {
-            "0xFDF3": "Amersports"
+            "uuid": "0xFDE7",
+            "name": "SECOM Co., LTD"
         },
         {
-            "0xFDF4": "O. E. M. Controls, Inc."
+            "uuid": "0xFDE8",
+            "name": "Robert Bosch GmbH"
         },
         {
-            "0xFDF5": "Milwaukee Electric Tools"
+            "uuid": "0xFDE9",
+            "name": "Spacesaver Corporation"
         },
         {
-            "0xFDF6": "AIAIAI ApS"
+            "uuid": "0xFDEA",
+            "name": "SeeScan, Inc"
         },
         {
-            "0xFDF7": "HP Inc."
+            "uuid": "0xFDEB",
+            "name": "Syntronix Corporation"
         },
         {
-            "0xFDF8": "Onvocal"
+            "uuid": "0xFDEC",
+            "name": "Mannkind Corporation"
         },
         {
-            "0xFDF9": "INIA"
+            "uuid": "0xFDED",
+            "name": "Pole Star"
         },
         {
-            "0xFDFA": "Tandem Diabetes Care"
+            "uuid": "0xFDEE",
+            "name": "Huawei Technologies Co., Ltd."
         },
         {
-            "0xFDFB": "Tandem Diabetes Care"
+            "uuid": "0xFDEF",
+            "name": "ART AND PROGRAM, INC."
         },
         {
-            "0xFDFC": "Optrel AG"
+            "uuid": "0xFDF0",
+            "name": "Google LLC"
         },
         {
-            "0xFDFD": "RecursiveSoft Inc."
+            "uuid": "0xFDF1",
+            "name": "LAMPLIGHT Co.,Ltd"
         },
         {
-            "0xFDFE": "ADHERIUM(NZ) LIMITED"
+            "uuid": "0xFDF2",
+            "name": "AMICCOM Electronics Corporation"
         },
         {
-            "0xFDFF": "OSRAM GmbH"
+            "uuid": "0xFDF3",
+            "name": "Amersports"
         },
         {
-            "0xFE00": "Amazon.com Services, Inc."
+            "uuid": "0xFDF4",
+            "name": "O. E. M. Controls, Inc."
         },
         {
-            "0xFE01": "Duracell U.S. Operations Inc."
+            "uuid": "0xFDF5",
+            "name": "Milwaukee Electric Tools"
         },
         {
-            "0xFE02": "Robert Bosch GmbH"
+            "uuid": "0xFDF6",
+            "name": "AIAIAI ApS"
         },
         {
-            "0xFE03": "Amazon.com Services, Inc."
+            "uuid": "0xFDF7",
+            "name": "HP Inc."
         },
         {
-            "0xFE04": "OpenPath Security Inc"
+            "uuid": "0xFDF8",
+            "name": "Onvocal"
         },
         {
-            "0xFE05": "CORE Transport Technologies NZ Limited "
+            "uuid": "0xFDF9",
+            "name": "INIA"
         },
         {
-            "0xFE06": "Qualcomm Technologies, Inc."
+            "uuid": "0xFDFA",
+            "name": "Tandem Diabetes Care"
         },
         {
-            "0xFE07": "Sonos, Inc."
+            "uuid": "0xFDFB",
+            "name": "Tandem Diabetes Care"
         },
         {
-            "0xFE08": "Microsoft"
+            "uuid": "0xFDFC",
+            "name": "Optrel AG"
         },
         {
-            "0xFE09": "Pillsy, Inc."
+            "uuid": "0xFDFD",
+            "name": "RecursiveSoft Inc."
         },
         {
-            "0xFE0A": "ruwido austria gmbh"
+            "uuid": "0xFDFE",
+            "name": "ADHERIUM(NZ) LIMITED"
         },
         {
-            "0xFE0B": "ruwido austria gmbh"
+            "uuid": "0xFDFF",
+            "name": "OSRAM GmbH"
         },
         {
-            "0xFE0C": "Procter & Gamble"
+            "uuid": "0xFE00",
+            "name": "Amazon.com Services, Inc."
         },
         {
-            "0xFE0D": "Procter & Gamble"
+            "uuid": "0xFE01",
+            "name": "Duracell U.S. Operations Inc."
         },
         {
-            "0xFE0E": "Setec Pty Ltd"
+            "uuid": "0xFE02",
+            "name": "Robert Bosch GmbH"
         },
         {
-            "0xFE0F": "Signify Netherlands B.V. (formerly Philips Lighting B.V.)"
+            "uuid": "0xFE03",
+            "name": "Amazon.com Services, Inc."
         },
         {
-            "0xFE10": "LAPIS Technology Co., Ltd."
+            "uuid": "0xFE04",
+            "name": "OpenPath Security Inc"
         },
         {
-            "0xFE11": "GMC-I Messtechnik GmbH"
+            "uuid": "0xFE05",
+            "name": "CORE Transport Technologies NZ Limited "
         },
         {
-            "0xFE12": "M-Way Solutions GmbH"
+            "uuid": "0xFE06",
+            "name": "Qualcomm Technologies, Inc."
         },
         {
-            "0xFE13": "Apple Inc."
+            "uuid": "0xFE07",
+            "name": "Sonos, Inc."
         },
         {
-            "0xFE14": "Flextronics International USA Inc."
+            "uuid": "0xFE08",
+            "name": "Microsoft"
         },
         {
-            "0xFE15": "Amazon.com Services, Inc.."
+            "uuid": "0xFE09",
+            "name": "Pillsy, Inc."
         },
         {
-            "0xFE16": "Footmarks, Inc."
+            "uuid": "0xFE0A",
+            "name": "ruwido austria gmbh"
         },
         {
-            "0xFE17": "Telit Wireless Solutions GmbH"
+            "uuid": "0xFE0B",
+            "name": "ruwido austria gmbh"
         },
         {
-            "0xFE18": "Runtime, Inc."
+            "uuid": "0xFE0C",
+            "name": "Procter & Gamble"
         },
         {
-            "0xFE19": "Google LLC"
+            "uuid": "0xFE0D",
+            "name": "Procter & Gamble"
         },
         {
-            "0xFE1A": "Tyto Life LLC"
+            "uuid": "0xFE0E",
+            "name": "Setec Pty Ltd"
         },
         {
-            "0xFE1B": "Tyto Life LLC"
+            "uuid": "0xFE0F",
+            "name": "Signify Netherlands B.V. (formerly Philips Lighting B.V.)"
         },
         {
-            "0xFE1C": "NetMedia, Inc."
+            "uuid": "0xFE10",
+            "name": "LAPIS Technology Co., Ltd."
         },
         {
-            "0xFE1D": "Illuminati Instrument Corporation"
+            "uuid": "0xFE11",
+            "name": "GMC-I Messtechnik GmbH"
         },
         {
-            "0xFE1E": "Smart Innovations Co., Ltd"
+            "uuid": "0xFE12",
+            "name": "M-Way Solutions GmbH"
         },
         {
-            "0xFE1F": "Garmin International, Inc."
+            "uuid": "0xFE13",
+            "name": "Apple Inc."
         },
         {
-            "0xFE20": "Emerson"
+            "uuid": "0xFE14",
+            "name": "Flextronics International USA Inc."
         },
         {
-            "0xFE21": "Bose Corporation"
+            "uuid": "0xFE15",
+            "name": "Amazon.com Services, Inc.."
         },
         {
-            "0xFE22": "Zoll Medical Corporation"
+            "uuid": "0xFE16",
+            "name": "Footmarks, Inc."
         },
         {
-            "0xFE23": "Zoll Medical Corporation"
+            "uuid": "0xFE17",
+            "name": "Telit Wireless Solutions GmbH"
         },
         {
-            "0xFE24": "August Home Inc"
+            "uuid": "0xFE18",
+            "name": "Runtime, Inc."
         },
         {
-            "0xFE25": "Apple, Inc. "
+            "uuid": "0xFE19",
+            "name": "Google LLC"
         },
         {
-            "0xFE26": "Google LLC"
+            "uuid": "0xFE1A",
+            "name": "Tyto Life LLC"
         },
         {
-            "0xFE27": "Google LLC"
+            "uuid": "0xFE1B",
+            "name": "Tyto Life LLC"
         },
         {
-            "0xFE28": "Ayla Networks"
+            "uuid": "0xFE1C",
+            "name": "NetMedia, Inc."
         },
         {
-            "0xFE29": "Gibson Innovations"
+            "uuid": "0xFE1D",
+            "name": "Illuminati Instrument Corporation"
         },
         {
-            "0xFE2A": "DaisyWorks, Inc."
+            "uuid": "0xFE1E",
+            "name": "Smart Innovations Co., Ltd"
         },
         {
-            "0xFE2B": "ITT Industries"
+            "uuid": "0xFE1F",
+            "name": "Garmin International, Inc."
         },
         {
-            "0xFE2C": "Google LLC"
+            "uuid": "0xFE20",
+            "name": "Emerson"
         },
         {
-            "0xFE2D": "SMART INNOVATION Co.,Ltd"
+            "uuid": "0xFE21",
+            "name": "Bose Corporation"
         },
         {
-            "0xFE2E": "ERi,Inc."
+            "uuid": "0xFE22",
+            "name": "Zoll Medical Corporation"
         },
         {
-            "0xFE2F": "CRESCO Wireless, Inc"
+            "uuid": "0xFE23",
+            "name": "Zoll Medical Corporation"
         },
         {
-            "0xFE30": "Volkswagen AG"
+            "uuid": "0xFE24",
+            "name": "August Home Inc"
         },
         {
-            "0xFE31": "Volkswagen AG"
+            "uuid": "0xFE25",
+            "name": "Apple, Inc. "
         },
         {
-            "0xFE32": "Pro-Mark, Inc."
+            "uuid": "0xFE26",
+            "name": "Google LLC"
         },
         {
-            "0xFE33": "CHIPOLO d.o.o."
+            "uuid": "0xFE27",
+            "name": "Google LLC"
         },
         {
-            "0xFE34": "SmallLoop LLC"
+            "uuid": "0xFE28",
+            "name": "Ayla Networks"
         },
         {
-            "0xFE35": "HUAWEI Technologies Co., Ltd"
+            "uuid": "0xFE29",
+            "name": "Gibson Innovations"
         },
         {
-            "0xFE36": "HUAWEI Technologies Co., Ltd"
+            "uuid": "0xFE2A",
+            "name": "DaisyWorks, Inc."
         },
         {
-            "0xFE37": "Spaceek LTD"
+            "uuid": "0xFE2B",
+            "name": "ITT Industries"
         },
         {
-            "0xFE38": "Spaceek LTD"
+            "uuid": "0xFE2C",
+            "name": "Google LLC"
         },
         {
-            "0xFE39": "TTS Tooltechnic Systems AG & Co. KG"
+            "uuid": "0xFE2D",
+            "name": "SMART INNOVATION Co.,Ltd"
         },
         {
-            "0xFE3A": "TTS Tooltechnic Systems AG & Co. KG"
+            "uuid": "0xFE2E",
+            "name": "ERi,Inc."
         },
         {
-            "0xFE3B": "Dolby Laboratories"
+            "uuid": "0xFE2F",
+            "name": "CRESCO Wireless, Inc"
         },
         {
-            "0xFE3C": "alibaba"
+            "uuid": "0xFE30",
+            "name": "Volkswagen AG"
         },
         {
-            "0xFE3D": "BD Medical"
+            "uuid": "0xFE31",
+            "name": "Volkswagen AG"
         },
         {
-            "0xFE3E": "BD Medical"
+            "uuid": "0xFE32",
+            "name": "Pro-Mark, Inc."
         },
         {
-            "0xFE3F": "Friday Labs Limited"
+            "uuid": "0xFE33",
+            "name": "CHIPOLO d.o.o."
         },
         {
-            "0xFE40": "Inugo Systems Limited"
+            "uuid": "0xFE34",
+            "name": "SmallLoop LLC"
         },
         {
-            "0xFE41": "Inugo Systems Limited"
+            "uuid": "0xFE35",
+            "name": "Huawei Technologies Co., Ltd"
         },
         {
-            "0xFE42": "Nets A/S "
+            "uuid": "0xFE36",
+            "name": "Huawei Technologies Co., Ltd"
         },
         {
-            "0xFE43": "Andreas Stihl AG & Co. KG"
+            "uuid": "0xFE37",
+            "name": "Spaceek LTD"
         },
         {
-            "0xFE44": "SK Telecom "
+            "uuid": "0xFE38",
+            "name": "Spaceek LTD"
         },
         {
-            "0xFE45": "Snapchat Inc"
+            "uuid": "0xFE39",
+            "name": "TTS Tooltechnic Systems AG & Co. KG"
         },
         {
-            "0xFE46": "B&O Play A/S "
+            "uuid": "0xFE3A",
+            "name": "TTS Tooltechnic Systems AG & Co. KG"
         },
         {
-            "0xFE47": "General Motors "
+            "uuid": "0xFE3B",
+            "name": "Dolby Laboratories"
         },
         {
-            "0xFE48": "General Motors "
+            "uuid": "0xFE3C",
+            "name": "alibaba"
         },
         {
-            "0xFE49": "SenionLab AB"
+            "uuid": "0xFE3D",
+            "name": "BD Medical"
         },
         {
-            "0xFE4A": "OMRON HEALTHCARE Co., Ltd."
+            "uuid": "0xFE3E",
+            "name": "BD Medical"
         },
         {
-            "0xFE4B": "Signify Netherlands B.V. (formerly Philips Lighting B.V.)"
+            "uuid": "0xFE3F",
+            "name": "Friday Labs Limited"
         },
         {
-            "0xFE4C": "Volkswagen AG "
+            "uuid": "0xFE40",
+            "name": "Inugo Systems Limited"
         },
         {
-            "0xFE4D": "Casambi Technologies Oy"
+            "uuid": "0xFE41",
+            "name": "Inugo Systems Limited"
         },
         {
-            "0xFE4E": "NTT docomo "
+            "uuid": "0xFE42",
+            "name": "Nets A/S "
         },
         {
-            "0xFE4F": "Molekule, Inc."
+            "uuid": "0xFE43",
+            "name": "Andreas Stihl AG & Co. KG"
         },
         {
-            "0xFE50": "Google LLC"
+            "uuid": "0xFE44",
+            "name": "SK Telecom "
         },
         {
-            "0xFE51": "SRAM "
+            "uuid": "0xFE45",
+            "name": "Snapchat Inc"
         },
         {
-            "0xFE52": "SetPoint Medical "
+            "uuid": "0xFE46",
+            "name": "B&O Play A/S "
         },
         {
-            "0xFE53": "3M"
+            "uuid": "0xFE47",
+            "name": "General Motors "
         },
         {
-            "0xFE54": "Motiv, Inc. "
+            "uuid": "0xFE48",
+            "name": "General Motors "
         },
         {
-            "0xFE55": "Google LLC"
+            "uuid": "0xFE49",
+            "name": "SenionLab AB"
         },
         {
-            "0xFE56": "Google LLC"
+            "uuid": "0xFE4A",
+            "name": "OMRON HEALTHCARE Co., Ltd."
         },
         {
-            "0xFE57": "Dotted Labs "
+            "uuid": "0xFE4B",
+            "name": "Signify Netherlands B.V. (formerly Philips Lighting B.V.)"
         },
         {
-            "0xFE58": "Nordic Semiconductor ASA "
+            "uuid": "0xFE4C",
+            "name": "Volkswagen AG "
         },
         {
-            "0xFE59": "Nordic Semiconductor ASA "
+            "uuid": "0xFE4D",
+            "name": "Casambi Technologies Oy"
         },
         {
-            "0xFE5A": "Cronologics Corporation"
+            "uuid": "0xFE4E",
+            "name": "NTT docomo "
         },
         {
-            "0xFE5B": "GT-tronics HK Ltd"
+            "uuid": "0xFE4F",
+            "name": "Molekule, Inc."
         },
         {
-            "0xFE5C": "million hunters GmbH "
+            "uuid": "0xFE50",
+            "name": "Google LLC"
         },
         {
-            "0xFE5D": "Grundfos A/S "
+            "uuid": "0xFE51",
+            "name": "SRAM "
         },
         {
-            "0xFE5E": "Plastc Corporation "
+            "uuid": "0xFE52",
+            "name": "SetPoint Medical "
         },
         {
-            "0xFE5F": "Eyefi, Inc."
+            "uuid": "0xFE53",
+            "name": "3M"
         },
         {
-            "0xFE60": "Lierda Science & Technology Group Co., Ltd."
+            "uuid": "0xFE54",
+            "name": "Motiv, Inc. "
         },
         {
-            "0xFE61": "Logitech International SA "
+            "uuid": "0xFE55",
+            "name": "Google LLC"
         },
         {
-            "0xFE62": "Indagem Tech LLC "
+            "uuid": "0xFE56",
+            "name": "Google LLC"
         },
         {
-            "0xFE63": "Connected Yard, Inc. "
+            "uuid": "0xFE57",
+            "name": "Dotted Labs "
         },
         {
-            "0xFE64": "Siemens AG"
+            "uuid": "0xFE58",
+            "name": "Nordic Semiconductor ASA "
         },
         {
-            "0xFE65": "CHIPOLO d.o.o. "
+            "uuid": "0xFE59",
+            "name": "Nordic Semiconductor ASA "
         },
         {
-            "0xFE66": "Intel Corporation "
+            "uuid": "0xFE5A",
+            "name": "Cronologics Corporation"
         },
         {
-            "0xFE67": "Lab Sensor Solutions"
+            "uuid": "0xFE5B",
+            "name": "GT-tronics HK Ltd"
         },
         {
-            "0xFE68": "Qualcomm Life Inc"
+            "uuid": "0xFE5C",
+            "name": "million hunters GmbH "
         },
         {
-            "0xFE69": "Qualcomm Life Inc"
+            "uuid": "0xFE5D",
+            "name": "Grundfos A/S "
         },
         {
-            "0xFE6A": "Kontakt Micro-Location Sp. z o.o."
+            "uuid": "0xFE5E",
+            "name": "Plastc Corporation "
         },
         {
-            "0xFE6B": "TASER International, Inc."
+            "uuid": "0xFE5F",
+            "name": "Eyefi, Inc."
         },
         {
-            "0xFE6C": "TASER International, Inc."
+            "uuid": "0xFE60",
+            "name": "Lierda Science & Technology Group Co., Ltd."
         },
         {
-            "0xFE6D": "The University of Tokyo "
+            "uuid": "0xFE61",
+            "name": "Logitech International SA "
         },
         {
-            "0xFE6E": "The University of Tokyo "
+            "uuid": "0xFE62",
+            "name": "Indagem Tech LLC "
         },
         {
-            "0xFE6F": "LINE Corporation"
+            "uuid": "0xFE63",
+            "name": "Connected Yard, Inc. "
         },
         {
-            "0xFE70": "Beijing Jingdong Century Trading Co., Ltd."
+            "uuid": "0xFE64",
+            "name": "Siemens AG"
         },
         {
-            "0xFE71": "Plume Design Inc"
+            "uuid": "0xFE65",
+            "name": "CHIPOLO d.o.o. "
         },
         {
-            "0xFE72": "Abbott (formerly St. Jude Medical, Inc.)"
+            "uuid": "0xFE66",
+            "name": "Intel Corporation "
         },
         {
-            "0xFE73": "Abbott (formerly St. Jude Medical, Inc.)"
+            "uuid": "0xFE67",
+            "name": "Lab Sensor Solutions"
         },
         {
-            "0xFE74": "unwire"
+            "uuid": "0xFE68",
+            "name": "Qualcomm Life Inc"
         },
         {
-            "0xFE75": "TangoMe"
+            "uuid": "0xFE69",
+            "name": "Qualcomm Life Inc"
         },
         {
-            "0xFE76": "TangoMe"
+            "uuid": "0xFE6A",
+            "name": "Kontakt Micro-Location Sp. z o.o."
         },
         {
-            "0xFE77": "Hewlett-Packard Company"
+            "uuid": "0xFE6B",
+            "name": "TASER International, Inc."
         },
         {
-            "0xFE78": "Hewlett-Packard Company"
+            "uuid": "0xFE6C",
+            "name": "TASER International, Inc."
         },
         {
-            "0xFE79": "Zebra Technologies"
+            "uuid": "0xFE6D",
+            "name": "The University of Tokyo "
         },
         {
-            "0xFE7A": "Bragi GmbH"
+            "uuid": "0xFE6E",
+            "name": "The University of Tokyo "
         },
         {
-            "0xFE7B": "Orion Labs, Inc."
+            "uuid": "0xFE6F",
+            "name": "LINE Corporation"
         },
         {
-            "0xFE7C": "Telit Wireless Solutions (Formerly Stollmann E+V GmbH)"
+            "uuid": "0xFE70",
+            "name": "Beijing Jingdong Century Trading Co., Ltd."
         },
         {
-            "0xFE7D": "Aterica Health Inc."
+            "uuid": "0xFE71",
+            "name": "Plume Design Inc"
         },
         {
-            "0xFE7E": "Awear Solutions Ltd"
+            "uuid": "0xFE72",
+            "name": "Abbott (formerly St. Jude Medical, Inc.)"
         },
         {
-            "0xFE7F": "Doppler Lab"
+            "uuid": "0xFE73",
+            "name": "Abbott (formerly St. Jude Medical, Inc.)"
         },
         {
-            "0xFE80": "Doppler Lab"
+            "uuid": "0xFE74",
+            "name": "unwire"
         },
         {
-            "0xFE81": "Medtronic Inc."
+            "uuid": "0xFE75",
+            "name": "TangoMe"
         },
         {
-            "0xFE82": "Medtronic Inc."
+            "uuid": "0xFE76",
+            "name": "TangoMe"
         },
         {
-            "0xFE83": "Blue Bite"
+            "uuid": "0xFE77",
+            "name": "Hewlett-Packard Company"
         },
         {
-            "0xFE84": "RF Digital Corp"
+            "uuid": "0xFE78",
+            "name": "Hewlett-Packard Company"
         },
         {
-            "0xFE85": "RF Digital Corp"
+            "uuid": "0xFE79",
+            "name": "Zebra Technologies"
         },
         {
-            "0xFE86": "HUAWEI Technologies Co., Ltd. ( \u534e\u4e3a\u6280\u672f\u6709\u9650\u516c\u53f8 )"
+            "uuid": "0xFE7A",
+            "name": "Bragi GmbH"
         },
         {
-            "0xFE87": "Q g"
+            "uuid": "0xFE7B",
+            "name": "Orion Labs, Inc."
         },
         {
-            "0xFE88": "SALTO SYSTEMS S.L."
+            "uuid": "0xFE7C",
+            "name": "Telit Wireless Solutions (Formerly Stollmann E+V GmbH)"
         },
         {
-            "0xFE89": "B&O Play A/S"
+            "uuid": "0xFE7D",
+            "name": "Aterica Health Inc."
         },
         {
-            "0xFE8A": "Apple, Inc."
+            "uuid": "0xFE7E",
+            "name": "Awear Solutions Ltd"
         },
         {
-            "0xFE8B": "Apple, Inc."
+            "uuid": "0xFE7F",
+            "name": "Doppler Lab"
         },
         {
-            "0xFE8C": "TRON Forum"
+            "uuid": "0xFE80",
+            "name": "Doppler Lab"
         },
         {
-            "0xFE8D": "Interaxon Inc."
+            "uuid": "0xFE81",
+            "name": "Medtronic Inc."
         },
         {
-            "0xFE8E": "ARM Ltd"
+            "uuid": "0xFE82",
+            "name": "Medtronic Inc."
         },
         {
-            "0xFE8F": "CSR"
+            "uuid": "0xFE83",
+            "name": "Blue Bite"
         },
         {
-            "0xFE90": "JUMA"
+            "uuid": "0xFE84",
+            "name": "RF Digital Corp"
         },
         {
-            "0xFE91": "Shanghai Imilab Technology Co.,Ltd"
+            "uuid": "0xFE85",
+            "name": "RF Digital Corp"
         },
         {
-            "0xFE92": "Jarden Safety & Security"
+            "uuid": "0xFE86",
+            "name": "Huawei Technologies Co., Ltd."
         },
         {
-            "0xFE93": "OttoQ In"
+            "uuid": "0xFE87",
+            "name": "Qingdao Yeelink Information Technology Co., Ltd. ( "
         },
         {
-            "0xFE94": "OttoQ In"
+            "uuid": "0xFE88",
+            "name": "SALTO SYSTEMS S.L."
         },
         {
-            "0xFE95": "Xiaomi Inc."
+            "uuid": "0xFE89",
+            "name": "B&O Play A/S"
         },
         {
-            "0xFE96": "Tesla Motors Inc."
+            "uuid": "0xFE8A",
+            "name": "Apple, Inc."
         },
         {
-            "0xFE97": "Tesla Motors Inc."
+            "uuid": "0xFE8B",
+            "name": "Apple, Inc."
         },
         {
-            "0xFE98": "Currant Inc"
+            "uuid": "0xFE8C",
+            "name": "TRON Forum"
         },
         {
-            "0xFE99": "Currant Inc"
+            "uuid": "0xFE8D",
+            "name": "Interaxon Inc."
         },
         {
-            "0xFE9A": "Estimote"
+            "uuid": "0xFE8E",
+            "name": "ARM Ltd"
         },
         {
-            "0xFE9B": "Samsara Networks, Inc"
+            "uuid": "0xFE8F",
+            "name": "CSR"
         },
         {
-            "0xFE9C": "GSI Laboratories, Inc."
+            "uuid": "0xFE90",
+            "name": "JUMA"
         },
         {
-            "0xFE9D": "Mobiquity Networks Inc"
+            "uuid": "0xFE91",
+            "name": "Shanghai Imilab Technology Co.,Ltd"
         },
         {
-            "0xFE9E": "Dialog Semiconductor B.V."
+            "uuid": "0xFE92",
+            "name": "Jarden Safety & Security"
         },
         {
-            "0xFE9F": "Google LLC"
+            "uuid": "0xFE93",
+            "name": "OttoQ In"
         },
         {
-            "0xFEA0": "Google LLC"
+            "uuid": "0xFE94",
+            "name": "OttoQ In"
         },
         {
-            "0xFEA1": "Intrepid Control Systems, Inc."
+            "uuid": "0xFE95",
+            "name": "Xiaomi Inc."
         },
         {
-            "0xFEA2": "Intrepid Control Systems, Inc."
+            "uuid": "0xFE96",
+            "name": "Tesla Motors Inc."
         },
         {
-            "0xFEA3": "ITT Industries"
+            "uuid": "0xFE97",
+            "name": "Tesla Motors Inc."
         },
         {
-            "0xFEA4": "Paxton Access Ltd"
+            "uuid": "0xFE98",
+            "name": "Currant Inc"
         },
         {
-            "0xFEA5": "GoPro, Inc."
+            "uuid": "0xFE99",
+            "name": "Currant Inc"
         },
         {
-            "0xFEA6": "GoPro, Inc."
+            "uuid": "0xFE9A",
+            "name": "Estimote"
         },
         {
-            "0xFEA7": "UTC Fire and Security"
+            "uuid": "0xFE9B",
+            "name": "Samsara Networks, Inc"
         },
         {
-            "0xFEA8": "Savant Systems LLC"
+            "uuid": "0xFE9C",
+            "name": "GSI Laboratories, Inc."
         },
         {
-            "0xFEA9": "Savant Systems LLC"
+            "uuid": "0xFE9D",
+            "name": "Mobiquity Networks Inc"
         },
         {
-            "0xFEAA": "Google LLC"
+            "uuid": "0xFE9E",
+            "name": "Dialog Semiconductor B.V."
         },
         {
-            "0xFEAB": "Nokia"
+            "uuid": "0xFE9F",
+            "name": "Google LLC"
         },
         {
-            "0xFEAC": "Nokia"
+            "uuid": "0xFEA0",
+            "name": "Google LLC"
         },
         {
-            "0xFEAD": "Nokia"
+            "uuid": "0xFEA1",
+            "name": "Intrepid Control Systems, Inc."
         },
         {
-            "0xFEAE": "Nokia"
+            "uuid": "0xFEA2",
+            "name": "Intrepid Control Systems, Inc."
         },
         {
-            "0xFEAF": "Nest Labs Inc"
+            "uuid": "0xFEA3",
+            "name": "ITT Industries"
         },
         {
-            "0xFEB0": "Nest Labs Inc"
+            "uuid": "0xFEA4",
+            "name": "Paxton Access Ltd"
         },
         {
-            "0xFEB1": "Electronics Tomorrow Limited"
+            "uuid": "0xFEA5",
+            "name": "GoPro, Inc."
         },
         {
-            "0xFEB2": "Microsoft Corporation"
+            "uuid": "0xFEA6",
+            "name": "GoPro, Inc."
         },
         {
-            "0xFEB3": "Taobao"
+            "uuid": "0xFEA7",
+            "name": "UTC Fire and Security"
         },
         {
-            "0xFEB4": "WiSilica Inc."
+            "uuid": "0xFEA8",
+            "name": "Savant Systems LLC"
         },
         {
-            "0xFEB5": "WiSilica Inc."
+            "uuid": "0xFEA9",
+            "name": "Savant Systems LLC"
         },
         {
-            "0xFEB6": "Vencer Co., Ltd"
+            "uuid": "0xFEAA",
+            "name": "Google LLC"
         },
         {
-            "0xFEB7": "Facebook, Inc."
+            "uuid": "0xFEAB",
+            "name": "Nokia"
         },
         {
-            "0xFEB8": "Facebook, Inc."
+            "uuid": "0xFEAC",
+            "name": "Nokia"
         },
         {
-            "0xFEB9": "LG Electronics"
+            "uuid": "0xFEAD",
+            "name": "Nokia"
         },
         {
-            "0xFEBA": "Tencent Holdings Limited"
+            "uuid": "0xFEAE",
+            "name": "Nokia"
         },
         {
-            "0xFEBB": "adafruit industries"
+            "uuid": "0xFEAF",
+            "name": "Nest Labs Inc"
         },
         {
-            "0xFEBC": "Dexcom Inc"
+            "uuid": "0xFEB0",
+            "name": "Nest Labs Inc"
         },
         {
-            "0xFEBD": "Clover Network, Inc"
+            "uuid": "0xFEB1",
+            "name": "Electronics Tomorrow Limited"
         },
         {
-            "0xFEBE": "Bose Corporation"
+            "uuid": "0xFEB2",
+            "name": "Microsoft Corporation"
         },
         {
-            "0xFEBF": "Nod, Inc."
+            "uuid": "0xFEB3",
+            "name": "Taobao"
         },
         {
-            "0xFEC0": "KDDI Corporation"
+            "uuid": "0xFEB4",
+            "name": "WiSilica Inc."
         },
         {
-            "0xFEC1": "KDDI Corporation"
+            "uuid": "0xFEB5",
+            "name": "WiSilica Inc."
         },
         {
-            "0xFEC2": "Blue Spark Technologies, Inc."
+            "uuid": "0xFEB6",
+            "name": "Vencer Co., Ltd"
         },
         {
-            "0xFEC3": "360fly, Inc."
+            "uuid": "0xFEB7",
+            "name": "Meta Platforms Inc."
         },
         {
-            "0xFEC4": "PLUS Location Systems"
+            "uuid": "0xFEB8",
+            "name": "Meta Platforms Inc."
         },
         {
-            "0xFEC5": "Realtek Semiconductor Corp."
+            "uuid": "0xFEB9",
+            "name": "LG Electronics"
         },
         {
-            "0xFEC6": "Kocomojo, LLC"
+            "uuid": "0xFEBA",
+            "name": "Tencent Holdings Limited"
         },
         {
-            "0xFEC7": "Apple, Inc."
+            "uuid": "0xFEBB",
+            "name": "adafruit industries"
         },
         {
-            "0xFEC8": "Apple, Inc."
+            "uuid": "0xFEBC",
+            "name": "Dexcom Inc"
         },
         {
-            "0xFEC9": "Apple, Inc."
+            "uuid": "0xFEBD",
+            "name": "Clover Network, Inc"
         },
         {
-            "0xFECA": "Apple, Inc."
+            "uuid": "0xFEBE",
+            "name": "Bose Corporation"
         },
         {
-            "0xFECB": "Apple, Inc."
+            "uuid": "0xFEBF",
+            "name": "Nod, Inc."
         },
         {
-            "0xFECC": "Apple, Inc."
+            "uuid": "0xFEC0",
+            "name": "KDDI Corporation"
         },
         {
-            "0xFECD": "Apple, Inc."
+            "uuid": "0xFEC1",
+            "name": "KDDI Corporation"
         },
         {
-            "0xFECE": "Apple, Inc."
+            "uuid": "0xFEC2",
+            "name": "Blue Spark Technologies, Inc."
         },
         {
-            "0xFECF": "Apple, Inc."
+            "uuid": "0xFEC3",
+            "name": "360fly, Inc."
         },
         {
-            "0xFED0": "Apple, Inc."
+            "uuid": "0xFEC4",
+            "name": "BlueCats US, LLC"
         },
         {
-            "0xFED1": "Apple, Inc."
+            "uuid": "0xFEC5",
+            "name": "Realtek Semiconductor Corp."
         },
         {
-            "0xFED2": "Apple, Inc."
+            "uuid": "0xFEC6",
+            "name": "Kocomojo, LLC"
         },
         {
-            "0xFED3": "Apple, Inc."
+            "uuid": "0xFEC7",
+            "name": "Apple, Inc."
         },
         {
-            "0xFED4": "Apple, Inc."
+            "uuid": "0xFEC8",
+            "name": "Apple, Inc."
         },
         {
-            "0xFED5": "Plantronics Inc."
+            "uuid": "0xFEC9",
+            "name": "Apple, Inc."
         },
         {
-            "0xFED6": "Broadcom"
+            "uuid": "0xFECA",
+            "name": "Apple, Inc."
         },
         {
-            "0xFED7": "Broadcom"
+            "uuid": "0xFECB",
+            "name": "Apple, Inc."
         },
         {
-            "0xFED8": "Google LLC"
+            "uuid": "0xFECC",
+            "name": "Apple, Inc."
         },
         {
-            "0xFED9": "Pebble Technology Corporation"
+            "uuid": "0xFECD",
+            "name": "Apple, Inc."
         },
         {
-            "0xFEDA": "ISSC Technologies Corp. "
+            "uuid": "0xFECE",
+            "name": "Apple, Inc."
         },
         {
-            "0xFEDB": "Perka, Inc."
+            "uuid": "0xFECF",
+            "name": "Apple, Inc."
         },
         {
-            "0xFEDC": "Jawbone"
+            "uuid": "0xFED0",
+            "name": "Apple, Inc."
         },
         {
-            "0xFEDD": "Jawbone"
+            "uuid": "0xFED1",
+            "name": "Apple, Inc."
         },
         {
-            "0xFEDE": "Coin, Inc."
+            "uuid": "0xFED2",
+            "name": "Apple, Inc."
         },
         {
-            "0xFEDF": "Design SHIFT"
+            "uuid": "0xFED3",
+            "name": "Apple, Inc."
         },
         {
-            "0xFEE0": "Anhui Huami Information Technology Co., Ltd. "
+            "uuid": "0xFED4",
+            "name": "Apple, Inc."
         },
         {
-            "0xFEE1": "Anhui Huami Information Technology Co., Ltd. "
+            "uuid": "0xFED5",
+            "name": "Plantronics Inc."
         },
         {
-            "0xFEE2": "Anki, Inc."
+            "uuid": "0xFED6",
+            "name": "Broadcom"
         },
         {
-            "0xFEE3": "Anki, Inc."
+            "uuid": "0xFED7",
+            "name": "Broadcom"
         },
         {
-            "0xFEE4": "Nordic Semiconductor ASA"
+            "uuid": "0xFED8",
+            "name": "Google LLC"
         },
         {
-            "0xFEE5": "Nordic Semiconductor ASA"
+            "uuid": "0xFED9",
+            "name": "Pebble Technology Corporation"
         },
         {
-            "0xFEE6": "Silvair, Inc."
+            "uuid": "0xFEDA",
+            "name": "ISSC Technologies Corp. "
         },
         {
-            "0xFEE7": "Tencent Holdings Limited."
+            "uuid": "0xFEDB",
+            "name": "Perka, Inc."
         },
         {
-            "0xFEE8": "Quintic Corp."
+            "uuid": "0xFEDC",
+            "name": "Jawbone"
         },
         {
-            "0xFEE9": "Quintic Corp."
+            "uuid": "0xFEDD",
+            "name": "Jawbone"
         },
         {
-            "0xFEEA": "Swirl Networks, Inc."
+            "uuid": "0xFEDE",
+            "name": "Coin, Inc."
         },
         {
-            "0xFEEB": "Swirl Networks, Inc."
+            "uuid": "0xFEDF",
+            "name": "Design SHIFT"
         },
         {
-            "0xFEEC": "Tile, Inc."
+            "uuid": "0xFEE0",
+            "name": "Anhui Huami Information Technology Co., Ltd. "
         },
         {
-            "0xFEED": "Tile, Inc."
+            "uuid": "0xFEE1",
+            "name": "Anhui Huami Information Technology Co., Ltd. "
         },
         {
-            "0xFEEE": "Polar Electro Oy "
+            "uuid": "0xFEE2",
+            "name": "Anki, Inc."
         },
         {
-            "0xFEEF": "Polar Electro Oy "
+            "uuid": "0xFEE3",
+            "name": "Anki, Inc."
         },
         {
-            "0xFEF0": "Intel"
+            "uuid": "0xFEE4",
+            "name": "Nordic Semiconductor ASA"
         },
         {
-            "0xFEF1": "CSR"
+            "uuid": "0xFEE5",
+            "name": "Nordic Semiconductor ASA"
         },
         {
-            "0xFEF2": "CSR"
+            "uuid": "0xFEE6",
+            "name": "Silvair, Inc."
         },
         {
-            "0xFEF3": "Google LLC"
+            "uuid": "0xFEE7",
+            "name": "Tencent Holdings Limited."
         },
         {
-            "0xFEF4": "Google LLC"
+            "uuid": "0xFEE8",
+            "name": "Quintic Corp."
         },
         {
-            "0xFEF5": "Dialog Semiconductor GmbH"
+            "uuid": "0xFEE9",
+            "name": "Quintic Corp."
         },
         {
-            "0xFEF6": "Wicentric, Inc."
+            "uuid": "0xFEEA",
+            "name": "Swirl Networks, Inc."
         },
         {
-            "0xFEF7": "Aplix Corporation"
+            "uuid": "0xFEEB",
+            "name": "Swirl Networks, Inc."
         },
         {
-            "0xFEF8": "Aplix Corporation"
+            "uuid": "0xFEEC",
+            "name": "Tile, Inc."
         },
         {
-            "0xFEF9": "PayPal, Inc."
+            "uuid": "0xFEED",
+            "name": "Tile, Inc."
         },
         {
-            "0xFEFA": "PayPal, Inc."
+            "uuid": "0xFEEE",
+            "name": "Polar Electro Oy "
         },
         {
-            "0xFEFB": "Telit Wireless Solutions (Formerly Stollmann E+V GmbH)"
+            "uuid": "0xFEEF",
+            "name": "Polar Electro Oy "
         },
         {
-            "0xFEFC": "Gimbal, Inc."
+            "uuid": "0xFEF0",
+            "name": "Intel"
         },
         {
-            "0xFEFD": "Gimbal, Inc."
+            "uuid": "0xFEF1",
+            "name": "CSR"
         },
         {
-            "0xFEFE": "GN ReSound A/S"
+            "uuid": "0xFEF2",
+            "name": "CSR"
         },
         {
-            "0xFEFF": "GN Netcom"
+            "uuid": "0xFEF3",
+            "name": "Google LLC"
+        },
+        {
+            "uuid": "0xFEF4",
+            "name": "Google LLC"
+        },
+        {
+            "uuid": "0xFEF5",
+            "name": "Dialog Semiconductor GmbH"
+        },
+        {
+            "uuid": "0xFEF6",
+            "name": "Wicentric, Inc."
+        },
+        {
+            "uuid": "0xFEF7",
+            "name": "Aplix Corporation"
+        },
+        {
+            "uuid": "0xFEF8",
+            "name": "Aplix Corporation"
+        },
+        {
+            "uuid": "0xFEF9",
+            "name": "PayPal, Inc."
+        },
+        {
+            "uuid": "0xFEFA",
+            "name": "PayPal, Inc."
+        },
+        {
+            "uuid": "0xFEFB",
+            "name": "Telit Wireless Solutions (Formerly Stollmann E+V GmbH)"
+        },
+        {
+            "uuid": "0xFEFC",
+            "name": "Gimbal, Inc."
+        },
+        {
+            "uuid": "0xFEFD",
+            "name": "Gimbal, Inc."
+        },
+        {
+            "uuid": "0xFEFE",
+            "name": "GN ReSound A/S"
+        },
+        {
+            "uuid": "0xFEFF",
+            "name": "GN Netcom"
         }
     ],
     "GATT Characteristic and Object Type": [
         {
-            "0x2A00": "Device Name"
+            "uuid": "0x2A00",
+            "name": "Device Name"
         },
         {
-            "0x2A01": "Appearance"
+            "uuid": "0x2A01",
+            "name": "Appearance"
         },
         {
-            "0x2A02": "Peripheral Privacy Flag"
+            "uuid": "0x2A02",
+            "name": "Peripheral Privacy Flag"
         },
         {
-            "0x2A03": "Reconnection Address"
+            "uuid": "0x2A03",
+            "name": "Reconnection Address"
         },
         {
-            "0x2A04": "Peripheral Preferred Connection Parameters"
+            "uuid": "0x2A04",
+            "name": "Peripheral Preferred Connection Parameters"
         },
         {
-            "0x2A05": "Service Changed"
+            "uuid": "0x2A05",
+            "name": "Service Changed"
         },
         {
-            "0x2A06": "Alert Level"
+            "uuid": "0x2A06",
+            "name": "Alert Level"
         },
         {
-            "0x2A07": "Tx Power Level"
+            "uuid": "0x2A07",
+            "name": "Tx Power Level"
         },
         {
-            "0x2A08": "Date Time"
+            "uuid": "0x2A08",
+            "name": "Date Time"
         },
         {
-            "0x2A09": "Day of Week"
+            "uuid": "0x2A09",
+            "name": "Day of Week"
         },
         {
-            "0x2A0A": "Day Date Time"
+            "uuid": "0x2A0A",
+            "name": "Day Date Time"
         },
         {
-            "0x2A0C": "Exact Time 256"
+            "uuid": "0x2A0C",
+            "name": "Exact Time 256"
         },
         {
-            "0x2A0D": "DST Offset"
+            "uuid": "0x2A0D",
+            "name": "DST Offset"
         },
         {
-            "0x2A0E": "Time Zone"
+            "uuid": "0x2A0E",
+            "name": "Time Zone"
         },
         {
-            "0x2A0F": "Local Time Information"
+            "uuid": "0x2A0F",
+            "name": "Local Time Information"
         },
         {
-            "0x2A11": "Time with DST"
+            "uuid": "0x2A11",
+            "name": "Time with DST"
         },
         {
-            "0x2A12": "Time Accuracy"
+            "uuid": "0x2A12",
+            "name": "Time Accuracy"
         },
         {
-            "0x2A13": "Time Source"
+            "uuid": "0x2A13",
+            "name": "Time Source"
         },
         {
-            "0x2A14": "Reference Time Information"
+            "uuid": "0x2A14",
+            "name": "Reference Time Information"
         },
         {
-            "0x2A16": "Time Update Control Point"
+            "uuid": "0x2A16",
+            "name": "Time Update Control Point"
         },
         {
-            "0x2A17": "Time Update State"
+            "uuid": "0x2A17",
+            "name": "Time Update State"
         },
         {
-            "0x2A18": "Glucose Measurement"
+            "uuid": "0x2A18",
+            "name": "Glucose Measurement"
         },
         {
-            "0x2A19": "Battery Level"
+            "uuid": "0x2A19",
+            "name": "Battery Level"
         },
         {
-            "0x2A1C": "Temperature Measurement"
+            "uuid": "0x2A1C",
+            "name": "Temperature Measurement"
         },
         {
-            "0x2A1D": "Temperature Type"
+            "uuid": "0x2A1D",
+            "name": "Temperature Type"
         },
         {
-            "0x2A1E": "Intermediate Temperature"
+            "uuid": "0x2A1E",
+            "name": "Intermediate Temperature"
         },
         {
-            "0x2A21": "Measurement Interval"
+            "uuid": "0x2A21",
+            "name": "Measurement Interval"
         },
         {
-            "0x2A22": "Boot Keyboard Input Report"
+            "uuid": "0x2A22",
+            "name": "Boot Keyboard Input Report"
         },
         {
-            "0x2A23": "System ID"
+            "uuid": "0x2A23",
+            "name": "System ID"
         },
         {
-            "0x2A24": "Model Number String"
+            "uuid": "0x2A24",
+            "name": "Model Number String"
         },
         {
-            "0x2A25": "Serial Number String"
+            "uuid": "0x2A25",
+            "name": "Serial Number String"
         },
         {
-            "0x2A26": "Firmware Revision String"
+            "uuid": "0x2A26",
+            "name": "Firmware Revision String"
         },
         {
-            "0x2A27": "Hardware Revision String"
+            "uuid": "0x2A27",
+            "name": "Hardware Revision String"
         },
         {
-            "0x2A28": "Software Revision String"
+            "uuid": "0x2A28",
+            "name": "Software Revision String"
         },
         {
-            "0x2A29": "Manufacturer Name String"
+            "uuid": "0x2A29",
+            "name": "Manufacturer Name String"
         },
         {
-            "0x2A2A": "IEEE 11073-20601 Regulatory Certification Data List"
+            "uuid": "0x2A2A",
+            "name": "IEEE 11073-20601 Regulatory Certification Data List"
         },
         {
-            "0x2A2B": "Current Time"
+            "uuid": "0x2A2B",
+            "name": "Current Time"
         },
         {
-            "0x2A31": "Scan Refresh"
+            "uuid": "0x2A31",
+            "name": "Scan Refresh"
         },
         {
-            "0x2A32": "Boot Keyboard Output Report"
+            "uuid": "0x2A32",
+            "name": "Boot Keyboard Output Report"
         },
         {
-            "0x2A33": "Boot Mouse Input Report"
+            "uuid": "0x2A33",
+            "name": "Boot Mouse Input Report"
         },
         {
-            "0x2A34": "Glucose Measurement Context"
+            "uuid": "0x2A34",
+            "name": "Glucose Measurement Context"
         },
         {
-            "0x2A35": "Blood Pressure Measurement"
+            "uuid": "0x2A35",
+            "name": "Blood Pressure Measurement"
         },
         {
-            "0x2A36": "Intermediate Cuff Pressure"
+            "uuid": "0x2A36",
+            "name": "Intermediate Cuff Pressure"
         },
         {
-            "0x2A37": "Heart Rate Measurement"
+            "uuid": "0x2A37",
+            "name": "Heart Rate Measurement"
         },
         {
-            "0x2A38": "Body Sensor Location"
+            "uuid": "0x2A38",
+            "name": "Body Sensor Location"
         },
         {
-            "0x2A39": "Heart Rate Control Point"
+            "uuid": "0x2A39",
+            "name": "Heart Rate Control Point"
         },
         {
-            "0x2A3F": "Alert Status"
+            "uuid": "0x2A3F",
+            "name": "Alert Status"
         },
         {
-            "0x2A40": "Ringer Control Point"
+            "uuid": "0x2A40",
+            "name": "Ringer Control Point"
         },
         {
-            "0x2A41": "Ringer Setting"
+            "uuid": "0x2A41",
+            "name": "Ringer Setting"
         },
         {
-            "0x2A42": "Alert Category ID Bit Mask"
+            "uuid": "0x2A42",
+            "name": "Alert Category ID Bit Mask"
         },
         {
-            "0x2A43": "Alert Category ID"
+            "uuid": "0x2A43",
+            "name": "Alert Category ID"
         },
         {
-            "0x2A44": "Alert Notification Control Point"
+            "uuid": "0x2A44",
+            "name": "Alert Notification Control Point"
         },
         {
-            "0x2A45": "Unread Alert Status"
+            "uuid": "0x2A45",
+            "name": "Unread Alert Status"
         },
         {
-            "0x2A46": "New Alert"
+            "uuid": "0x2A46",
+            "name": "New Alert"
         },
         {
-            "0x2A47": "Supported New Alert Category"
+            "uuid": "0x2A47",
+            "name": "Supported New Alert Category"
         },
         {
-            "0x2A48": "Supported Unread Alert Category"
+            "uuid": "0x2A48",
+            "name": "Supported Unread Alert Category"
         },
         {
-            "0x2A49": "Blood Pressure Feature"
+            "uuid": "0x2A49",
+            "name": "Blood Pressure Feature"
         },
         {
-            "0x2A4A": "HID Information"
+            "uuid": "0x2A4A",
+            "name": "HID Information"
         },
         {
-            "0x2A4B": "Report Map"
+            "uuid": "0x2A4B",
+            "name": "Report Map"
         },
         {
-            "0x2A4C": "HID Control Point"
+            "uuid": "0x2A4C",
+            "name": "HID Control Point"
         },
         {
-            "0x2A4D": "Report"
+            "uuid": "0x2A4D",
+            "name": "Report"
         },
         {
-            "0x2A4E": "Protocol Mode"
+            "uuid": "0x2A4E",
+            "name": "Protocol Mode"
         },
         {
-            "0x2A4F": "Scan Interval Window"
+            "uuid": "0x2A4F",
+            "name": "Scan Interval Window"
         },
         {
-            "0x2A50": "PnP ID"
+            "uuid": "0x2A50",
+            "name": "PnP ID"
         },
         {
-            "0x2A51": "Glucose Feature"
+            "uuid": "0x2A51",
+            "name": "Glucose Feature"
         },
         {
-            "0x2A52": "Record Access Control Point"
+            "uuid": "0x2A52",
+            "name": "Record Access Control Point"
         },
         {
-            "0x2A53": "RSC Measurement"
+            "uuid": "0x2A53",
+            "name": "RSC Measurement"
         },
         {
-            "0x2A54": "RSC Feature"
+            "uuid": "0x2A54",
+            "name": "RSC Feature"
         },
         {
-            "0x2A55": "SC Control Point"
+            "uuid": "0x2A55",
+            "name": "SC Control Point"
         },
         {
-            "0x2A5A": "Aggregate"
+            "uuid": "0x2A5A",
+            "name": "Aggregate"
         },
         {
-            "0x2A5B": "CSC Measurement"
+            "uuid": "0x2A5B",
+            "name": "CSC Measurement"
         },
         {
-            "0x2A5C": "CSC Feature"
+            "uuid": "0x2A5C",
+            "name": "CSC Feature"
         },
         {
-            "0x2A5D": "Sensor Location"
+            "uuid": "0x2A5D",
+            "name": "Sensor Location"
         },
         {
-            "0x2A5E": "PLX Spot-Check Measurement"
+            "uuid": "0x2A5E",
+            "name": "PLX Spot-Check Measurement"
         },
         {
-            "0x2A5F": "PLX Continuous Measurement"
+            "uuid": "0x2A5F",
+            "name": "PLX Continuous Measurement"
         },
         {
-            "0x2A60": "PLX Features"
+            "uuid": "0x2A60",
+            "name": "PLX Features"
         },
         {
-            "0x2A63": "Cycling Power Measurement"
+            "uuid": "0x2A63",
+            "name": "Cycling Power Measurement"
         },
         {
-            "0x2A64": "Cycling Power Vector"
+            "uuid": "0x2A64",
+            "name": "Cycling Power Vector"
         },
         {
-            "0x2A65": "Cycling Power Feature"
+            "uuid": "0x2A65",
+            "name": "Cycling Power Feature"
         },
         {
-            "0x2A66": "Cycling Power Control Point"
+            "uuid": "0x2A66",
+            "name": "Cycling Power Control Point"
         },
         {
-            "0x2A67": "Location and Speed"
+            "uuid": "0x2A67",
+            "name": "Location and Speed"
         },
         {
-            "0x2A68": "Navigation"
+            "uuid": "0x2A68",
+            "name": "Navigation"
         },
         {
-            "0x2A69": "Position Quality"
+            "uuid": "0x2A69",
+            "name": "Position Quality"
         },
         {
-            "0x2A6A": "LN Feature"
+            "uuid": "0x2A6A",
+            "name": "LN Feature"
         },
         {
-            "0x2A6B": "LN Control Point"
+            "uuid": "0x2A6B",
+            "name": "LN Control Point"
         },
         {
-            "0x2A6C": "Elevation"
+            "uuid": "0x2A6C",
+            "name": "Elevation"
         },
         {
-            "0x2A6D": "Pressure"
+            "uuid": "0x2A6D",
+            "name": "Pressure"
         },
         {
-            "0x2A6E": "Temperature"
+            "uuid": "0x2A6E",
+            "name": "Temperature"
         },
         {
-            "0x2A6F": "Humidity"
+            "uuid": "0x2A6F",
+            "name": "Humidity"
         },
         {
-            "0x2A70": "True Wind Speed"
+            "uuid": "0x2A70",
+            "name": "True Wind Speed"
         },
         {
-            "0x2A71": "True Wind Direction"
+            "uuid": "0x2A71",
+            "name": "True Wind Direction"
         },
         {
-            "0x2A72": "Apparent Wind Speed"
+            "uuid": "0x2A72",
+            "name": "Apparent Wind Speed"
         },
         {
-            "0x2A73": "Apparent Wind Direction "
+            "uuid": "0x2A73",
+            "name": "Apparent Wind Direction "
         },
         {
-            "0x2A74": "Gust Factor"
+            "uuid": "0x2A74",
+            "name": "Gust Factor"
         },
         {
-            "0x2A75": "Pollen Concentration"
+            "uuid": "0x2A75",
+            "name": "Pollen Concentration"
         },
         {
-            "0x2A76": "UV Index"
+            "uuid": "0x2A76",
+            "name": "UV Index"
         },
         {
-            "0x2A77": "Irradiance"
+            "uuid": "0x2A77",
+            "name": "Irradiance"
         },
         {
-            "0x2A78": "Rainfall"
+            "uuid": "0x2A78",
+            "name": "Rainfall"
         },
         {
-            "0x2A79": "Wind Chill"
+            "uuid": "0x2A79",
+            "name": "Wind Chill"
         },
         {
-            "0x2A7A": "Heat Index"
+            "uuid": "0x2A7A",
+            "name": "Heat Index"
         },
         {
-            "0x2A7B": "Dew Point"
+            "uuid": "0x2A7B",
+            "name": "Dew Point"
         },
         {
-            "0x2A7D": " Descriptor Value Changed"
+            "uuid": "0x2A7D",
+            "name": " Descriptor Value Changed"
         },
         {
-            "0x2A7E": "Aerobic Heart Rate Lower Limit"
+            "uuid": "0x2A7E",
+            "name": "Aerobic Heart Rate Lower Limit"
         },
         {
-            "0x2A7F": "Aerobic Threshold"
+            "uuid": "0x2A7F",
+            "name": "Aerobic Threshold"
         },
         {
-            "0x2A80": "Age"
+            "uuid": "0x2A80",
+            "name": "Age"
         },
         {
-            "0x2A81": "Anaerobic Heart Rate Lower Limit"
+            "uuid": "0x2A81",
+            "name": "Anaerobic Heart Rate Lower Limit"
         },
         {
-            "0x2A82": "Anaerobic Heart Rate Upper Limit"
+            "uuid": "0x2A82",
+            "name": "Anaerobic Heart Rate Upper Limit"
         },
         {
-            "0x2A83": "Anaerobic Threshold"
+            "uuid": "0x2A83",
+            "name": "Anaerobic Threshold"
         },
         {
-            "0x2A84": "Aerobic Heart Rate Upper Limit"
+            "uuid": "0x2A84",
+            "name": "Aerobic Heart Rate Upper Limit"
         },
         {
-            "0x2A85": "Date of Birth"
+            "uuid": "0x2A85",
+            "name": "Date of Birth"
         },
         {
-            "0x2A86": "Date of Threshold Assessment"
+            "uuid": "0x2A86",
+            "name": "Date of Threshold Assessment"
         },
         {
-            "0x2A87": "Email Address"
+            "uuid": "0x2A87",
+            "name": "Email Address"
         },
         {
-            "0x2A88": "Fat Burn Heart Rate Lower Limit"
+            "uuid": "0x2A88",
+            "name": "Fat Burn Heart Rate Lower Limit"
         },
         {
-            "0x2A89": "Fat Burn Heart Rate Upper Limit"
+            "uuid": "0x2A89",
+            "name": "Fat Burn Heart Rate Upper Limit"
         },
         {
-            "0x2A8A": "First Name"
+            "uuid": "0x2A8A",
+            "name": "First Name"
         },
         {
-            "0x2A8B": "Five Zone Heart Rate Limits"
+            "uuid": "0x2A8B",
+            "name": "Five Zone Heart Rate Limits"
         },
         {
-            "0x2A8C": "Gender"
+            "uuid": "0x2A8C",
+            "name": "Gender"
         },
         {
-            "0x2A8D": "Heart Rate Max"
+            "uuid": "0x2A8D",
+            "name": "Heart Rate Max"
         },
         {
-            "0x2A8E": "Height"
+            "uuid": "0x2A8E",
+            "name": "Height"
         },
         {
-            "0x2A8F": "Hip Circumference"
+            "uuid": "0x2A8F",
+            "name": "Hip Circumference"
         },
         {
-            "0x2A90": "Last Name"
+            "uuid": "0x2A90",
+            "name": "Last Name"
         },
         {
-            "0x2A91": "Maximum Recommended Heart Rate"
+            "uuid": "0x2A91",
+            "name": "Maximum Recommended Heart Rate"
         },
         {
-            "0x2A92": "Resting Heart Rate"
+            "uuid": "0x2A92",
+            "name": "Resting Heart Rate"
         },
         {
-            "0x2A93": "Sport Type for Aerobic and Anaerobic Thresholds"
+            "uuid": "0x2A93",
+            "name": "Sport Type for Aerobic and Anaerobic Thresholds"
         },
         {
-            "0x2A94": "Three Zone Heart Rate Limits"
+            "uuid": "0x2A94",
+            "name": "Three Zone Heart Rate Limits"
         },
         {
-            "0x2A95": "Two Zone Heart Rate Limits"
+            "uuid": "0x2A95",
+            "name": "Two Zone Heart Rate Limits"
         },
         {
-            "0x2A96": "VO2 Max"
+            "uuid": "0x2A96",
+            "name": "VO2 Max"
         },
         {
-            "0x2A97": "Waist Circumference"
+            "uuid": "0x2A97",
+            "name": "Waist Circumference"
         },
         {
-            "0x2A98": "Weight"
+            "uuid": "0x2A98",
+            "name": "Weight"
         },
         {
-            "0x2A99": "Database Change Increment"
+            "uuid": "0x2A99",
+            "name": "Database Change Increment"
         },
         {
-            "0x2A9A": "User Index"
+            "uuid": "0x2A9A",
+            "name": "User Index"
         },
         {
-            "0x2A9B": "Body Composition Feature"
+            "uuid": "0x2A9B",
+            "name": "Body Composition Feature"
         },
         {
-            "0x2A9C": "Body Composition Measurement"
+            "uuid": "0x2A9C",
+            "name": "Body Composition Measurement"
         },
         {
-            "0x2A9D": "Weight Measurement"
+            "uuid": "0x2A9D",
+            "name": "Weight Measurement"
         },
         {
-            "0x2A9E": "Weight Scale Feature"
+            "uuid": "0x2A9E",
+            "name": "Weight Scale Feature"
         },
         {
-            "0x2A9F": "User Control Point"
+            "uuid": "0x2A9F",
+            "name": "User Control Point"
         },
         {
-            "0x2AA0": "Magnetic Flux Density - 2D"
+            "uuid": "0x2AA0",
+            "name": "Magnetic Flux Density - 2D"
         },
         {
-            "0x2AA1": "Magnetic Flux Density - 3D"
+            "uuid": "0x2AA1",
+            "name": "Magnetic Flux Density - 3D"
         },
         {
-            "0x2AA2": "Language"
+            "uuid": "0x2AA2",
+            "name": "Language"
         },
         {
-            "0x2AA3": "Barometric Pressure Trend"
+            "uuid": "0x2AA3",
+            "name": "Barometric Pressure Trend"
         },
         {
-            "0x2AA4": "Bond Management Control Point"
+            "uuid": "0x2AA4",
+            "name": "Bond Management Control Point"
         },
         {
-            "0x2AA5": "Bond Management Feature"
+            "uuid": "0x2AA5",
+            "name": "Bond Management Feature"
         },
         {
-            "0x2AA6": "Central Address Resolution"
+            "uuid": "0x2AA6",
+            "name": "Central Address Resolution"
         },
         {
-            "0x2AA7": "CGM Measurement"
+            "uuid": "0x2AA7",
+            "name": "CGM Measurement"
         },
         {
-            "0x2AA8": "CGM Feature"
+            "uuid": "0x2AA8",
+            "name": "CGM Feature"
         },
         {
-            "0x2AA9": "CGM Status"
+            "uuid": "0x2AA9",
+            "name": "CGM Status"
         },
         {
-            "0x2AAA": "CGM Session Start Time"
+            "uuid": "0x2AAA",
+            "name": "CGM Session Start Time"
         },
         {
-            "0x2AAB": "CGM Session Run Time"
+            "uuid": "0x2AAB",
+            "name": "CGM Session Run Time"
         },
         {
-            "0x2AAC": "CGM Specific Ops Control Point"
+            "uuid": "0x2AAC",
+            "name": "CGM Specific Ops Control Point"
         },
         {
-            "0x2AAD": "Indoor Positioning Configuration"
+            "uuid": "0x2AAD",
+            "name": "Indoor Positioning Configuration"
         },
         {
-            "0x2AAE": "Latitude"
+            "uuid": "0x2AAE",
+            "name": "Latitude"
         },
         {
-            "0x2AAF": "Longitude"
+            "uuid": "0x2AAF",
+            "name": "Longitude"
         },
         {
-            "0x2AB0": "Local North Coordinate"
+            "uuid": "0x2AB0",
+            "name": "Local North Coordinate"
         },
         {
-            "0x2AB1": "Local East Coordinate"
+            "uuid": "0x2AB1",
+            "name": "Local East Coordinate"
         },
         {
-            "0x2AB2": "Floor Number"
+            "uuid": "0x2AB2",
+            "name": "Floor Number"
         },
         {
-            "0x2AB3": "Altitude"
+            "uuid": "0x2AB3",
+            "name": "Altitude"
         },
         {
-            "0x2AB4": "Uncertainty"
+            "uuid": "0x2AB4",
+            "name": "Uncertainty"
         },
         {
-            "0x2AB5": "Location Name"
+            "uuid": "0x2AB5",
+            "name": "Location Name"
         },
         {
-            "0x2AB6": "URI"
+            "uuid": "0x2AB6",
+            "name": "URI"
         },
         {
-            "0x2AB7": "HTTP Headers"
+            "uuid": "0x2AB7",
+            "name": "HTTP Headers"
         },
         {
-            "0x2AB8": "HTTP Status Code"
+            "uuid": "0x2AB8",
+            "name": "HTTP Status Code"
         },
         {
-            "0x2AB9": "HTTP Entity Body"
+            "uuid": "0x2AB9",
+            "name": "HTTP Entity Body"
         },
         {
-            "0x2ABA": "HTTP Control Point"
+            "uuid": "0x2ABA",
+            "name": "HTTP Control Point"
         },
         {
-            "0x2ABB": "HTTPS Security"
+            "uuid": "0x2ABB",
+            "name": "HTTPS Security"
         },
         {
-            "0x2ABC": "TDS Control Point"
+            "uuid": "0x2ABC",
+            "name": "TDS Control Point"
         },
         {
-            "0x2ABD": "OTS Feature"
+            "uuid": "0x2ABD",
+            "name": "OTS Feature"
         },
         {
-            "0x2ABE": "object name"
+            "uuid": "0x2ABE",
+            "name": "Object Name"
         },
         {
-            "0x2ABF": "object type"
+            "uuid": "0x2ABF",
+            "name": "Object Type"
         },
         {
-            "0x2AC0": "object size"
+            "uuid": "0x2AC0",
+            "name": "Object Size"
         },
         {
-            "0x2AC1": "object first created"
+            "uuid": "0x2AC1",
+            "name": "Object First-Created"
         },
         {
-            "0x2AC2": "object last modified"
+            "uuid": "0x2AC2",
+            "name": "Object Last-Modified"
         },
         {
-            "0x2AC3": "object ID"
+            "uuid": "0x2AC3",
+            "name": "Object ID"
         },
         {
-            "0x2AC4": "object properties"
+            "uuid": "0x2AC4",
+            "name": "Object Properties"
         },
         {
-            "0x2AC5": "object action control point"
+            "uuid": "0x2AC5",
+            "name": "Object Action Control Point"
         },
         {
-            "0x2AC6": "object list control point"
+            "uuid": "0x2AC6",
+            "name": "Object List Control Point"
         },
         {
-            "0x2AC7": "object list filter"
+            "uuid": "0x2AC7",
+            "name": "Object List Filter"
         },
         {
-            "0x2AC8": "object changed"
+            "uuid": "0x2AC8",
+            "name": "Object Changed"
         },
         {
-            "0x2AC9": "Resolvable Private Address Only"
+            "uuid": "0x2AC9",
+            "name": "Resolvable Private Address Only"
         },
         {
-            "0x2ACA": "Unspecified"
+            "uuid": "0x2ACA",
+            "name": "Unspecified"
         },
         {
-            "0x2ACB": "Directory Listing"
+            "uuid": "0x2ACB",
+            "name": "Directory Listing"
         },
         {
-            "0x2ACC": "Fitness Machine Feature"
+            "uuid": "0x2ACC",
+            "name": "Fitness Machine Feature"
         },
         {
-            "0x2ACD": "Treadmill Data"
+            "uuid": "0x2ACD",
+            "name": "Treadmill Data"
         },
         {
-            "0x2ACE": "Cross Trainer Data"
+            "uuid": "0x2ACE",
+            "name": "Cross Trainer Data"
         },
         {
-            "0x2ACF": "Step Climber Data"
+            "uuid": "0x2ACF",
+            "name": "Step Climber Data"
         },
         {
-            "0x2AD0": "Stair Climber Data"
+            "uuid": "0x2AD0",
+            "name": "Stair Climber Data"
         },
         {
-            "0x2AD1": "Rower Data"
+            "uuid": "0x2AD1",
+            "name": "Rower Data"
         },
         {
-            "0x2AD2": "Indoor Bike Data"
+            "uuid": "0x2AD2",
+            "name": "Indoor Bike Data"
         },
         {
-            "0x2AD3": "Training Status"
+            "uuid": "0x2AD3",
+            "name": "Training Status"
         },
         {
-            "0x2AD4": "Supported Speed Range"
+            "uuid": "0x2AD4",
+            "name": "Supported Speed Range"
         },
         {
-            "0x2AD5": "Supported Inclination Range"
+            "uuid": "0x2AD5",
+            "name": "Supported Inclination Range"
         },
         {
-            "0x2AD6": "Supported Resistance Level Range"
+            "uuid": "0x2AD6",
+            "name": "Supported Resistance Level Range"
         },
         {
-            "0x2AD7": "Supported Heart Rate Range"
+            "uuid": "0x2AD7",
+            "name": "Supported Heart Rate Range"
         },
         {
-            "0x2AD8": "Supported Power Range"
+            "uuid": "0x2AD8",
+            "name": "Supported Power Range"
         },
         {
-            "0x2AD9": "Fitness Machine Control Point"
+            "uuid": "0x2AD9",
+            "name": "Fitness Machine Control Point"
         },
         {
-            "0x2ADA": "Fitness Machine Status"
+            "uuid": "0x2ADA",
+            "name": "Fitness Machine Status"
         },
         {
-            "0x2ADB": "Mesh Provisioning Data In"
+            "uuid": "0x2ADB",
+            "name": "Mesh Provisioning Data In"
         },
         {
-            "0X2ADC": "Mesh Provisioning Data Out"
+            "uuid": "0x2ADC",
+            "name": "Mesh Provisioning Data Out"
         },
         {
-            "0X2ADD": "Mesh Proxy Data In"
+            "uuid": "0x2ADD",
+            "name": "Mesh Proxy Data In"
         },
         {
-            "0X2ADE": "Mesh Proxy Data Out"
+            "uuid": "0x2ADE",
+            "name": "Mesh Proxy Data Out"
         },
         {
-            "0X2AE0": "Average Current"
+            "uuid": "0x2AE0",
+            "name": "Average Current"
         },
         {
-            "0X2AE1": "Average Voltage"
+            "uuid": "0x2AE1",
+            "name": "Average Voltage"
         },
         {
-            "0X2AE2": "Boolean"
+            "uuid": "0x2AE2",
+            "name": "Boolean"
         },
         {
-            "0X2AE3": "Chromatic Distance From Planckian"
+            "uuid": "0x2AE3",
+            "name": "Chromatic Distance From Planckian"
         },
         {
-            "0X2AE4": "Chromaticity Coordinates"
+            "uuid": "0x2AE4",
+            "name": "Chromaticity Coordinates"
         },
         {
-            "0X2AE5": "Chromaticity in CCT And Duv Values"
+            "uuid": "0x2AE5",
+            "name": "Chromaticity In CCT And Duv Values"
         },
         {
-            "0X2AE6": "Chromaticity Tolerance"
+            "uuid": "0x2AE6",
+            "name": "Chromaticity Tolerance"
         },
         {
-            "0X2AE7": "CIE 13.3-1995 Color Rendering Index"
+            "uuid": "0x2AE7",
+            "name": "CIE 13.3-1995 Color Rendering Index"
         },
         {
-            "0X2AE8": "Coefficient"
+            "uuid": "0x2AE8",
+            "name": "Coefficient"
         },
         {
-            "0X2AE9": "Correlated Color Temperature"
+            "uuid": "0x2AE9",
+            "name": "Correlated Color Temperature"
         },
         {
-            "0X2AEA": "Count 16"
+            "uuid": "0x2AEA",
+            "name": "Count 16"
         },
         {
-            "0X2AEB": "Count 24"
+            "uuid": "0x2AEB",
+            "name": "Count 24"
         },
         {
-            "0X2AEC": "Country Code"
+            "uuid": "0x2AEC",
+            "name": "Country Code"
         },
         {
-            "0X2AED": "Date UTC"
+            "uuid": "0x2AED",
+            "name": "Date UTC"
         },
         {
-            "0X2AEE": "Electric Current"
+            "uuid": "0x2AEE",
+            "name": "Electric Current"
         },
         {
-            "0X2AEF": "Electric Current Range"
+            "uuid": "0x2AEF",
+            "name": "Electric Current Range"
         },
         {
-            "0X2AF0": "Electric Current Specification"
+            "uuid": "0x2AF0",
+            "name": "Electric Current Specification"
         },
         {
-            "0X2AF1": "Electric Current Statistics"
+            "uuid": "0x2AF1",
+            "name": "Electric Current Statistics"
         },
         {
-            "0X2AF2": "Energy"
+            "uuid": "0x2AF2",
+            "name": "Energy"
         },
         {
-            "0X2AF3": "Energy In A Period Of Day"
+            "uuid": "0x2AF3",
+            "name": "Energy In A Period Of Day"
         },
         {
-            "0X2AF4": "Event Statistics"
+            "uuid": "0x2AF4",
+            "name": "Event Statistics"
         },
         {
-            "0X2AF5": "Fixed String 16"
+            "uuid": "0x2AF5",
+            "name": "Fixed String 16"
         },
         {
-            "0X2AF6": "Fixed String 24"
+            "uuid": "0x2AF6",
+            "name": "Fixed String 24"
         },
         {
-            "0X2AF7": "Fixed String 36"
+            "uuid": "0x2AF7",
+            "name": "Fixed String 36"
         },
         {
-            "0X2AF8": "Fixed String 8"
+            "uuid": "0x2AF8",
+            "name": "Fixed String 8"
         },
         {
-            "0X2AF9": "Generic Level"
+            "uuid": "0x2AF9",
+            "name": "Generic Level"
         },
         {
-            "0X2AFA": "Global Trade Item Number"
+            "uuid": "0x2AFA",
+            "name": "Global Trade Item Number"
         },
         {
-            "0X2AFB": "Illuminance"
+            "uuid": "0x2AFB",
+            "name": "Illuminance"
         },
         {
-            "0X2AFC": "Luminous Efficacy"
+            "uuid": "0x2AFC",
+            "name": "Luminous Efficacy"
         },
         {
-            "0X2AFD": "Luminous Energy"
+            "uuid": "0x2AFD",
+            "name": "Luminous Energy"
         },
         {
-            "0X2AFE": "Luminous Exposure"
+            "uuid": "0x2AFE",
+            "name": "Luminous Exposure"
         },
         {
-            "0X2AFF": "Luminous Flux"
+            "uuid": "0x2AFF",
+            "name": "Luminous Flux"
         },
         {
-            "0x2B00": "Luminous Flux Range"
+            "uuid": "0x2B00",
+            "name": "Luminous Flux Range"
         },
         {
-            "0x2B01": "Luminous Intensity"
+            "uuid": "0x2B01",
+            "name": "Luminous Intensity"
         },
         {
-            "0x2B02": "Mass Flow"
+            "uuid": "0x2B02",
+            "name": "Mass Flow"
         },
         {
-            "0x2B03": "Perceived Lightness"
+            "uuid": "0x2B03",
+            "name": "Perceived Lightness"
         },
         {
-            "0x2B04": "Percentage 8"
+            "uuid": "0x2B04",
+            "name": "Percentage 8"
         },
         {
-            "0x2B05": "Power"
+            "uuid": "0x2B05",
+            "name": "Power"
         },
         {
-            "0x2B06": "Power Specification"
+            "uuid": "0x2B06",
+            "name": "Power Specification"
         },
         {
-            "0x2B07": "Relative Runtime In A Current Range"
+            "uuid": "0x2B07",
+            "name": "Relative Runtime In A Current Range"
         },
         {
-            "0x2B08": "Relative Runtime In A Generic Level Range"
+            "uuid": "0x2B08",
+            "name": "Relative Runtime In A Generic Level Range"
         },
         {
-            "0x2B09": "Relative Value In A Voltage Range"
+            "uuid": "0x2B09",
+            "name": "Relative Value In A Voltage Range"
         },
         {
-            "0x2B0A": "Relative Value In An Illuminance Range"
+            "uuid": "0x2B0A",
+            "name": "Relative Value In An Illuminance Range"
         },
         {
-            "0x2B0B": "Relative Value In A Period Of Day"
+            "uuid": "0x2B0B",
+            "name": "Relative Value In A Period Of Day"
         },
         {
-            "0x2B0C": "Relative Value In A Temperature Range"
+            "uuid": "0x2B0C",
+            "name": "Relative Value In A Temperature Range"
         },
         {
-            "0x2B0D": "Temperature 8"
+            "uuid": "0x2B0D",
+            "name": "Temperature 8"
         },
         {
-            "0x2B0E": "Temperature 8 In A Period Of Day"
+            "uuid": "0x2B0E",
+            "name": "Temperature 8 In A Period Of Day"
         },
         {
-            "0x2B0F": "Temperature 8 Statistics"
+            "uuid": "0x2B0F",
+            "name": "Temperature 8 Statistics"
         },
         {
-            "0x2B10": "Temperature Range"
+            "uuid": "0x2B10",
+            "name": "Temperature Range"
         },
         {
-            "0x2B11": "Temperature Statistics"
+            "uuid": "0x2B11",
+            "name": "Temperature Statistics"
         },
         {
-            "0x2B12": "Time Decihour 8"
+            "uuid": "0x2B12",
+            "name": "Time Decihour 8"
         },
         {
-            "0x2B13": "Time Exponential 8"
+            "uuid": "0x2B13",
+            "name": "Time Exponential 8"
         },
         {
-            "0x2B14": "Time Hour 24"
+            "uuid": "0x2B14",
+            "name": "Time Hour 24"
         },
         {
-            "0x2B15": "Time Millisecond 24"
+            "uuid": "0x2B15",
+            "name": "Time Millisecond 24"
         },
         {
-            "0x2B16": "Time Second 16"
+            "uuid": "0x2B16",
+            "name": "Time Second 16"
         },
         {
-            "0x2B17": "Time Second 8"
+            "uuid": "0x2B17",
+            "name": "Time Second 8"
         },
         {
-            "0x2B18": "Voltage"
+            "uuid": "0x2B18",
+            "name": "Voltage"
         },
         {
-            "0x2B19": "Voltage Specification"
+            "uuid": "0x2B19",
+            "name": "Voltage Specification"
         },
         {
-            "0x2B1A": "Voltage Statistics"
+            "uuid": "0x2B1A",
+            "name": "Voltage Statistics"
         },
         {
-            "0x2B1B": "Volume Flow"
+            "uuid": "0x2B1B",
+            "name": "Volume Flow"
         },
         {
-            "0x2B1C": "Chromaticity Coordinate "
+            "uuid": "0x2B1C",
+            "name": "Chromaticity Coordinate "
         },
         {
-            "0x2B1D": "RC Feature"
+            "uuid": "0x2B1D",
+            "name": "RC Feature"
         },
         {
-            "0x2B1E": "RC Settings"
+            "uuid": "0x2B1E",
+            "name": "RC Settings"
         },
         {
-            "0x2B1F": "Reconnection Configuration Control Point"
+            "uuid": "0x2B1F",
+            "name": "Reconnection Configuration Control Point"
         },
         {
-            "0x2B20": "IDD Status Changed"
+            "uuid": "0x2B20",
+            "name": "IDD Status Changed"
         },
         {
-            "0x2B21": "IDD Status"
+            "uuid": "0x2B21",
+            "name": "IDD Status"
         },
         {
-            "0x2B22": "IDD Annunciation Status"
+            "uuid": "0x2B22",
+            "name": "IDD Annunciation Status"
         },
         {
-            "0x2B23": "IDD Features"
+            "uuid": "0x2B23",
+            "name": "IDD Features"
         },
         {
-            "0x2B24": "IDD Status Reader Control Point"
+            "uuid": "0x2B24",
+            "name": "IDD Status Reader Control Point"
         },
         {
-            "0x2B25": "IDD Command Control Point"
+            "uuid": "0x2B25",
+            "name": "IDD Command Control Point"
         },
         {
-            "0x2B26": "IDD Command Data"
+            "uuid": "0x2B26",
+            "name": "IDD Command Data"
         },
         {
-            "0x2B27": "IDD Record Access Control Point"
+            "uuid": "0x2B27",
+            "name": "IDD Record Access Control Point"
         },
         {
-            "0x2B28": "IDD History Data"
+            "uuid": "0x2B28",
+            "name": "IDD History Data"
         },
         {
-            "0x2B29": "Client Supported Features"
+            "uuid": "0x2B29",
+            "name": "Client Supported Features"
         },
         {
-            "0x2B2A": "Database Hash"
+            "uuid": "0x2B2A",
+            "name": "Database Hash"
         },
         {
-            "0x2B2B": "BSS Control Point"
+            "uuid": "0x2B2B",
+            "name": "BSS Control Point"
         },
         {
-            "0x2B2C": "BSS Response"
+            "uuid": "0x2B2C",
+            "name": "BSS Response"
         },
         {
-            "0x2B2D": "Emergency ID"
+            "uuid": "0x2B2D",
+            "name": "Emergency ID"
         },
         {
-            "0x2B2E": "Emergency Text"
+            "uuid": "0x2B2E",
+            "name": "Emergency Text"
         },
         {
-            "0x2B34": "Enhanced Blood Pressure Measurement "
+            "uuid": "0x2B34",
+            "name": "Enhanced Blood Pressure Measurement "
         },
         {
-            "0x2B35": "Enhanced Intermediate Cuff Pressure "
+            "uuid": "0x2B35",
+            "name": "Enhanced Intermediate Cuff Pressure "
         },
         {
-            "0x2B36": "Blood Pressure Record "
+            "uuid": "0x2B36",
+            "name": "Blood Pressure Record "
         },
         {
-            "0x2B38": "BR-EDR Handover Data"
+            "uuid": "0x2B38",
+            "name": "BR-EDR Handover Data"
         },
         {
-            "0x2B39": "Bluetooth SIG Data "
+            "uuid": "0x2B39",
+            "name": "Bluetooth SIG Data "
         },
         {
-            "0x2B3A": "Server Supported Features"
+            "uuid": "0x2B3A",
+            "name": "Server Supported Features"
         },
         {
-            "0x2B3B": "Physical Activity Monitor Features "
+            "uuid": "0x2B3B",
+            "name": "Physical Activity Monitor Features "
         },
         {
-            "0x2B3C": "General Activity Instantaneous Data "
+            "uuid": "0x2B3C",
+            "name": "General Activity Instantaneous Data "
         },
         {
-            "0x2B3D": "General Activity Summary Data "
+            "uuid": "0x2B3D",
+            "name": "General Activity Summary Data "
         },
         {
-            "0x2B3E": "CardioRespiratory Activity Instantaneous Data "
+            "uuid": "0x2B3E",
+            "name": "CardioRespiratory Activity Instantaneous Data "
         },
         {
-            "0x2B3F": "CardioRespiratory Activity Summary Data "
+            "uuid": "0x2B3F",
+            "name": "CardioRespiratory Activity Summary Data "
         },
         {
-            "0x2B40": "Step Counter Activity Summary Data "
+            "uuid": "0x2B40",
+            "name": "Step Counter Activity Summary Data "
         },
         {
-            "0x2B41": "Sleep Activity Instantaneous Data "
+            "uuid": "0x2B41",
+            "name": "Sleep Activity Instantaneous Data "
         },
         {
-            "0x2B42": "Sleep Activity Summary Data "
+            "uuid": "0x2B42",
+            "name": "Sleep Activity Summary Data "
         },
         {
-            "0x2B43": "Physical Activity Monitor Control Point "
+            "uuid": "0x2B43",
+            "name": "Physical Activity Monitor Control Point "
         },
         {
-            "0x2B44": "Activity Current Session"
+            "uuid": "0x2B44",
+            "name": "Activity Current Session"
         },
         {
-            "0x2B45": "Physical Activity Session Descriptor"
+            "uuid": "0x2B45",
+            "name": "Physical Activity Session Descriptor"
         },
         {
-            "0x2B46": "Preferred Units"
+            "uuid": "0x2B46",
+            "name": "Preferred Units"
         },
         {
-            "0x2B47": "High Resolution Height"
+            "uuid": "0x2B47",
+            "name": "High Resolution Height"
         },
         {
-            "0x2B48": "Middle Name"
+            "uuid": "0x2B48",
+            "name": "Middle Name"
         },
         {
-            "0x2B49": "Stride Length"
+            "uuid": "0x2B49",
+            "name": "Stride Length"
         },
         {
-            "0x2B4A": "Handedness"
+            "uuid": "0x2B4A",
+            "name": "Handedness"
         },
         {
-            "0x2B4B": "Device Wearing Position"
+            "uuid": "0x2B4B",
+            "name": "Device Wearing Position"
         },
         {
-            "0x2B4C": "Four Zone Heart Rate Limits"
+            "uuid": "0x2B4C",
+            "name": "Four Zone Heart Rate Limits"
         },
         {
-            "0x2B4D": "High Intensity Exercise Threshold"
+            "uuid": "0x2B4D",
+            "name": "High Intensity Exercise Threshold"
         },
         {
-            "0x2B4E": "Activity Goal"
+            "uuid": "0x2B4E",
+            "name": "Activity Goal"
         },
         {
-            "0x2B4F": "Sedentary Interval Notification"
+            "uuid": "0x2B4F",
+            "name": "Sedentary Interval Notification"
         },
         {
-            "0x2B50": "Caloric Intake"
+            "uuid": "0x2B50",
+            "name": "Caloric Intake"
         },
         {
-            "0x2B51": "TMAP Role"
+            "uuid": "0x2B51",
+            "name": "TMAP Role"
         },
         {
-            "0x2B77": "Audio Input State"
+            "uuid": "0x2B77",
+            "name": "Audio Input State"
         },
         {
-            "0x2B78": "Gain Settings Attribute"
+            "uuid": "0x2B78",
+            "name": "Gain Settings Attribute"
         },
         {
-            "0x2B79": "Audio Input Type"
+            "uuid": "0x2B79",
+            "name": "Audio Input Type"
         },
         {
-            "0x2B7A": "Audio Input Status"
+            "uuid": "0x2B7A",
+            "name": "Audio Input Status"
         },
         {
-            "0x2B7B": "Audio Input Control Point"
+            "uuid": "0x2B7B",
+            "name": "Audio Input Control Point"
         },
         {
-            "0x2B7C": "Audio Input Description"
+            "uuid": "0x2B7C",
+            "name": "Audio Input Description"
         },
         {
-            "0x2B7D": "Volume State"
+            "uuid": "0x2B7D",
+            "name": "Volume State"
         },
         {
-            "0x2B7E": "Volume Control Point"
+            "uuid": "0x2B7E",
+            "name": "Volume Control Point"
         },
         {
-            "0x2B7F": "Volume Flags"
+            "uuid": "0x2B7F",
+            "name": "Volume Flags"
         },
         {
-            "0x2B80": "Volume Offset State"
+            "uuid": "0x2B80",
+            "name": "Volume Offset State"
         },
         {
-            "0x2B81": "Audio Location"
+            "uuid": "0x2B81",
+            "name": "Audio Location"
         },
         {
-            "0x2B82": "Volume Offset Control Point"
+            "uuid": "0x2B82",
+            "name": "Volume Offset Control Point"
         },
         {
-            "0x2B83": "Audio Output Description"
+            "uuid": "0x2B83",
+            "name": "Audio Output Description"
         },
         {
-            "0x2B84": "Set Identity Resolving Key"
+            "uuid": "0x2B84",
+            "name": "Set Identity Resolving Key"
         },
         {
-            "0x2B85": "Coordinated Set Size"
+            "uuid": "0x2B85",
+            "name": "Coordinated Set Size"
         },
         {
-            "0x2B86": "Set Member Lock"
+            "uuid": "0x2B86",
+            "name": "Set Member Lock"
         },
         {
-            "0x2B87": "Set Member Rank"
+            "uuid": "0x2B87",
+            "name": "Set Member Rank"
         },
         {
-            "0x2B8E": "Device Time Feature"
+            "uuid": "0x2B89",
+            "name": "Apparent Energy 32 "
         },
         {
-            "0x2B8F": "Device Time Parameters"
+            "uuid": "0x2B8A",
+            "name": "Apparent Power "
         },
         {
-            "0x2B90": "Device Time"
+            "uuid": "0x2B8C",
+            "name": "CO2 Concentration "
         },
         {
-            "0x2B91": "Device Time Control Point"
+            "uuid": "0x2B8D",
+            "name": "Cosine of the Angle "
         },
         {
-            "0x2B92": "Time Change Log Data"
+            "uuid": "0x2B8E",
+            "name": "Device Time Feature"
         },
         {
-            "0x2B93": "Media Player Name  "
+            "uuid": "0x2B8F",
+            "name": "Device Time Parameters"
         },
         {
-            "0x2B94": "Media Player Icon Object ID  "
+            "uuid": "0x2B90",
+            "name": "Device Time"
         },
         {
-            "0x2B95": "Media Player Icon URL "
+            "uuid": "0x2B91",
+            "name": "Device Time Control Point"
         },
         {
-            "0x2B96": "Track Changed  "
+            "uuid": "0x2B92",
+            "name": "Time Change Log Data"
         },
         {
-            "0x2B97": "Track Title  "
+            "uuid": "0x2B93",
+            "name": "Media Player Name  "
         },
         {
-            "0x2B98": "Track Duration  "
+            "uuid": "0x2B94",
+            "name": "Media Player Icon Object ID  "
         },
         {
-            "0x2B99": "Track Position  "
+            "uuid": "0x2B95",
+            "name": "Media Player Icon URL "
         },
         {
-            "0x2B9A": "Playback Speed  "
+            "uuid": "0x2B96",
+            "name": "Track Changed  "
         },
         {
-            "0x2B9B": "Seeking Speed  "
+            "uuid": "0x2B97",
+            "name": "Track Title  "
         },
         {
-            "0x2B9C": "Current Track Segments Object ID  "
+            "uuid": "0x2B98",
+            "name": "Track Duration  "
         },
         {
-            "0x2B9D": "Current Track Object ID "
+            "uuid": "0x2B99",
+            "name": "Track Position  "
         },
         {
-            "0x2B9E": "Next Track Object ID "
+            "uuid": "0x2B9A",
+            "name": "Playback Speed  "
         },
         {
-            "0x2B9F": "Parent Group Object ID "
+            "uuid": "0x2B9B",
+            "name": "Seeking Speed  "
         },
         {
-            "0x2BA0": "Current Group Object ID "
+            "uuid": "0x2B9C",
+            "name": "Current Track Segments Object ID  "
         },
         {
-            "0x2BA1": "Playing Order  "
+            "uuid": "0x2B9D",
+            "name": "Current Track Object ID "
         },
         {
-            "0x2BA2": "Playing Orders Supported  "
+            "uuid": "0x2B9E",
+            "name": "Next Track Object ID "
         },
         {
-            "0x2BA3": "Media State  "
+            "uuid": "0x2B9F",
+            "name": "Parent Group Object ID "
         },
         {
-            "0x2BA4": "Media Control Point   "
+            "uuid": "0x2BA0",
+            "name": "Current Group Object ID "
         },
         {
-            "0x2BA5": "Media Control Point Opcodes Supported   "
+            "uuid": "0x2BA1",
+            "name": "Playing Order  "
         },
         {
-            "0x2BA6": "Search Results Object ID "
+            "uuid": "0x2BA2",
+            "name": "Playing Orders Supported  "
         },
         {
-            "0x2BA7": "Search Control Point  "
+            "uuid": "0x2BA3",
+            "name": "Media State  "
         },
         {
-            "0x2BA9": "Media Player Icon Object Type "
+            "uuid": "0x2BA4",
+            "name": "Media Control Point   "
         },
         {
-            "0x2BAA": "Track Segments Object Type "
+            "uuid": "0x2BA5",
+            "name": "Media Control Point Opcodes Supported   "
         },
         {
-            "0x2BAB": "Track Object Type "
+            "uuid": "0x2BA6",
+            "name": "Search Results Object ID "
         },
         {
-            "0x2BAC": "Group Object Type "
+            "uuid": "0x2BA7",
+            "name": "Search Control Point  "
         },
         {
-            "0x2BAD": "Constant Tone Extension Enable"
+            "uuid": "0x2BA8",
+            "name": "Energy 32 "
         },
         {
-            "0x2BAE": "Advertising Constant Tone Extension Minimum Length"
+            "uuid": "0x2BA9",
+            "name": "Media Player Icon Object Type "
         },
         {
-            "0x2BAF": "Advertising Constant Tone Extension Minimum Transmit Count"
+            "uuid": "0x2BAA",
+            "name": "Track Segments Object Type "
         },
         {
-            "0x2BB0": "Advertising Constant Tone Extension Transmit Duration"
+            "uuid": "0x2BAB",
+            "name": "Track Object Type "
         },
         {
-            "0x2BB1": "Advertising Constant Tone Extension Interval"
+            "uuid": "0x2BAC",
+            "name": "Group Object Type "
         },
         {
-            "0x2BB2": "Advertising Constant Tone Extension PHY"
+            "uuid": "0x2BAD",
+            "name": "Constant Tone Extension Enable"
         },
         {
-            "0x2BB3": "Bearer Provider Name"
+            "uuid": "0x2BAE",
+            "name": "Advertising Constant Tone Extension Minimum Length"
         },
         {
-            "0x2BB4": "Bearer UCI"
+            "uuid": "0x2BAF",
+            "name": "Advertising Constant Tone Extension Minimum Transmit Count"
         },
         {
-            "0x2BB5": "Bearer Technology"
+            "uuid": "0x2BB0",
+            "name": "Advertising Constant Tone Extension Transmit Duration"
         },
         {
-            "0x2BB6": "Bearer URI Schemes Supported List"
+            "uuid": "0x2BB1",
+            "name": "Advertising Constant Tone Extension Interval"
         },
         {
-            "0x2BB7": "Bearer Signal Strength"
+            "uuid": "0x2BB2",
+            "name": "Advertising Constant Tone Extension PHY"
         },
         {
-            "0x2BB8": "Bearer Signal Strength Reporting Interval"
+            "uuid": "0x2BB3",
+            "name": "Bearer Provider Name"
         },
         {
-            "0x2BB9": "Bearer List Current Calls"
+            "uuid": "0x2BB4",
+            "name": "Bearer UCI"
         },
         {
-            "0x2BBA": "Content Control ID"
+            "uuid": "0x2BB5",
+            "name": "Bearer Technology"
         },
         {
-            "0x2BBB": "Status Flags"
+            "uuid": "0x2BB6",
+            "name": "Bearer URI Schemes Supported List"
         },
         {
-            "0x2BBC": "Incoming Call Target Bearer URI"
+            "uuid": "0x2BB7",
+            "name": "Bearer Signal Strength"
         },
         {
-            "0x2BBD": "Call State"
+            "uuid": "0x2BB8",
+            "name": "Bearer Signal Strength Reporting Interval"
         },
         {
-            "0x2BBE": "Call Control Point"
+            "uuid": "0x2BB9",
+            "name": "Bearer List Current Calls"
         },
         {
-            "0x2BBF": "Call Control Point Optional Opcodes"
+            "uuid": "0x2BBA",
+            "name": "Content Control ID"
         },
         {
-            "0x2BC0": "Termination Reason"
+            "uuid": "0x2BBB",
+            "name": "Status Flags"
         },
         {
-            "0x2BC1": "Incoming Call"
+            "uuid": "0x2BBC",
+            "name": "Incoming Call Target Bearer URI"
         },
         {
-            "0x2BC2": "Call Friendly Name"
+            "uuid": "0x2BBD",
+            "name": "Call State"
         },
         {
-            "0x2BC3": "Mute"
+            "uuid": "0x2BBE",
+            "name": "Call Control Point"
         },
         {
-            "0x2BC4": "Sink ASE"
+            "uuid": "0x2BBF",
+            "name": "Call Control Point Optional Opcodes"
         },
         {
-            "0x2BC5": "Source ASE"
+            "uuid": "0x2BC0",
+            "name": "Termination Reason"
         },
         {
-            "0x2BC6": "ASE Control Point"
+            "uuid": "0x2BC1",
+            "name": "Incoming Call"
         },
         {
-            "0x2BC7": "Broadcast Audio Scan Control Point "
+            "uuid": "0x2BC2",
+            "name": "Call Friendly Name"
         },
         {
-            "0x2BC8": "Broadcast Receive State"
+            "uuid": "0x2BC3",
+            "name": "Mute"
         },
         {
-            "0x2BC9": "Sink PAC"
+            "uuid": "0x2BC4",
+            "name": "Sink ASE"
         },
         {
-            "0x2BCA": "Sink Audio Locations"
+            "uuid": "0x2BC5",
+            "name": "Source ASE"
         },
         {
-            "0x2BCB": "Source PAC"
+            "uuid": "0x2BC6",
+            "name": "ASE Control Point"
         },
         {
-            "0x2BCC": "Source Audio Locations"
+            "uuid": "0x2BC7",
+            "name": "Broadcast Audio Scan Control Point "
         },
         {
-            "0x2BCD": "Available Audio Contexts "
+            "uuid": "0x2BC8",
+            "name": "Broadcast Receive State"
         },
         {
-            "0x2BCE": "Supported Audio Contexts "
+            "uuid": "0x2BC9",
+            "name": "Sink PAC"
         },
         {
-            "0x2BCF": "Ammonia Concentration"
+            "uuid": "0x2BCA",
+            "name": "Sink Audio Locations"
         },
         {
-            "0x2BD0": "Carbon Monoxide Concentration"
+            "uuid": "0x2BCB",
+            "name": "Source PAC"
         },
         {
-            "0x2BD1": "Methane Concentration"
+            "uuid": "0x2BCC",
+            "name": "Source Audio Locations"
         },
         {
-            "0x2BD2": "Nitrogen Dioxide Concentration"
+            "uuid": "0x2BCD",
+            "name": "Available Audio Contexts "
         },
         {
-            "0x2BD3": "Non-Methane Volatile Organic Compounds Concentration"
+            "uuid": "0x2BCE",
+            "name": "Supported Audio Contexts "
         },
         {
-            "0x2BD4": "Ozone Concentration"
+            "uuid": "0x2BCF",
+            "name": "Ammonia Concentration"
         },
         {
-            "0x2BD5": "Particulate Matter - PM1 Concentration"
+            "uuid": "0x2BD0",
+            "name": "Carbon Monoxide Concentration"
         },
         {
-            "0x2BD6": "Particulate Matter - PM2.5 Concentration"
+            "uuid": "0x2BD1",
+            "name": "Methane Concentration"
         },
         {
-            "0x2BD7": "Particulate Matter - PM10 Concentration"
+            "uuid": "0x2BD2",
+            "name": "Nitrogen Dioxide Concentration"
         },
         {
-            "0x2BD8": "Sulfur Dioxide Concentration"
+            "uuid": "0x2BD3",
+            "name": "Non-Methane Volatile Organic Compounds Concentration"
         },
         {
-            "0x2BD9": "Sulfur Hexafluoride Concentration"
+            "uuid": "0x2BD4",
+            "name": "Ozone Concentration"
         },
         {
-            "0x2BDA": "Hearing Aid Features"
+            "uuid": "0x2BD5",
+            "name": "Particulate Matter - PM1 Concentration"
         },
         {
-            "0x2BDB": "Hearing Aid Preset Control Point"
+            "uuid": "0x2BD6",
+            "name": "Particulate Matter - PM2.5 Concentration"
         },
         {
-            "0x2BDC": "Active Preset Index"
+            "uuid": "0x2BD7",
+            "name": "Particulate Matter - PM10 Concentration"
+        },
+        {
+            "uuid": "0x2BD8",
+            "name": "Sulfur Dioxide Concentration"
+        },
+        {
+            "uuid": "0x2BD9",
+            "name": "Sulfur Hexafluoride Concentration"
+        },
+        {
+            "uuid": "0x2BDA",
+            "name": "Hearing Aid Features"
+        },
+        {
+            "uuid": "0x2BDB",
+            "name": "Hearing Aid Preset Control Point"
+        },
+        {
+            "uuid": "0x2BDC",
+            "name": "Active Preset Index"
         }
     ],
     "GATT Declarations ": [
         {
-            "0x2800": "Primary Service"
+            "uuid": "0x2800",
+            "name": "Primary Service"
         },
         {
-            "0x2801": "Secondary Service"
+            "uuid": "0x2801",
+            "name": "Secondary Service"
         },
         {
-            "0x2802": "Include"
+            "uuid": "0x2802",
+            "name": "Include"
         },
         {
-            "0x2803": "Characteristic"
+            "uuid": "0x2803",
+            "name": "Characteristic"
         }
     ],
     "GATT Descriptor": [
         {
-            "0x2900": "Characteristic Extended Properties"
+            "uuid": "0x2900",
+            "name": "Characteristic Extended Properties"
         },
         {
-            "0x2901": "Characteristic User Description"
+            "uuid": "0x2901",
+            "name": "Characteristic User Description"
         },
         {
-            "0x2902": "Client Characteristic Configuration"
+            "uuid": "0x2902",
+            "name": "Client Characteristic Configuration"
         },
         {
-            "0x2903": "Server Characteristic Configuration"
+            "uuid": "0x2903",
+            "name": "Server Characteristic Configuration"
         },
         {
-            "0x2904": "Characteristic Presentation Format"
+            "uuid": "0x2904",
+            "name": "Characteristic Presentation Format"
         },
         {
-            "0x2905": "Characteristic Aggregate Format"
+            "uuid": "0x2905",
+            "name": "Characteristic Aggregate Format"
         },
         {
-            "0x2906": "Valid Range"
+            "uuid": "0x2906",
+            "name": "Valid Range"
         },
         {
-            "0x2907": "External Report Reference"
+            "uuid": "0x2907",
+            "name": "External Report Reference"
         },
         {
-            "0x2908": "Report Reference"
+            "uuid": "0x2908",
+            "name": "Report Reference"
         },
         {
-            "0x2909": "Number of Digitals"
+            "uuid": "0x2909",
+            "name": "Number of Digitals"
         },
         {
-            "0x290A": "Value Trigger Setting"
+            "uuid": "0x290A",
+            "name": "Value Trigger Setting"
         },
         {
-            "0x290B": "Environmental Sensing Configuration"
+            "uuid": "0x290B",
+            "name": "Environmental Sensing Configuration"
         },
         {
-            "0x290C": "Environmental Sensing Measurement"
+            "uuid": "0x290C",
+            "name": "Environmental Sensing Measurement"
         },
         {
-            "0x290D": "Environmental Sensing Trigger Setting"
+            "uuid": "0x290D",
+            "name": "Environmental Sensing Trigger Setting"
         },
         {
-            "0x290E": "Time Trigger Setting"
+            "uuid": "0x290E",
+            "name": "Time Trigger Setting"
         },
         {
-            "0x290F": "Complete BR-EDR Transport Block Data "
+            "uuid": "0x290F",
+            "name": "Complete BR-EDR Transport Block Data "
         }
     ],
     "GATT Service": [
         {
-            "0x1800": "Generic Access"
+            "uuid": "0x1800",
+            "name": "Generic Access"
         },
         {
-            "0x1801": "Generic Attribute"
+            "uuid": "0x1801",
+            "name": "Generic Attribute"
         },
         {
-            "0x1802": "Immediate Alert"
+            "uuid": "0x1802",
+            "name": "Immediate Alert"
         },
         {
-            "0x1803": "Link Loss"
+            "uuid": "0x1803",
+            "name": "Link Loss"
         },
         {
-            "0x1804": "Tx Power"
+            "uuid": "0x1804",
+            "name": "Tx Power"
         },
         {
-            "0x1805": "Current Time"
+            "uuid": "0x1805",
+            "name": "Current Time"
         },
         {
-            "0x1806": "Reference Time Update "
+            "uuid": "0x1806",
+            "name": "Reference Time Update "
         },
         {
-            "0x1807": "Next DST Change "
+            "uuid": "0x1807",
+            "name": "Next DST Change "
         },
         {
-            "0x1808": "Glucose"
+            "uuid": "0x1808",
+            "name": "Glucose"
         },
         {
-            "0x1809": "Health Thermometer"
+            "uuid": "0x1809",
+            "name": "Health Thermometer"
         },
         {
-            "0x180A": "Device Information"
+            "uuid": "0x180A",
+            "name": "Device Information"
         },
         {
-            "0x180D": "Heart Rate"
+            "uuid": "0x180D",
+            "name": "Heart Rate"
         },
         {
-            "0x180E": "Phone Alert Status "
+            "uuid": "0x180E",
+            "name": "Phone Alert Status "
         },
         {
-            "0x180F": "Battery"
+            "uuid": "0x180F",
+            "name": "Battery"
         },
         {
-            "0x1810": "Blood Pressure"
+            "uuid": "0x1810",
+            "name": "Blood Pressure"
         },
         {
-            "0x1811": "Alert Notification "
+            "uuid": "0x1811",
+            "name": "Alert Notification "
         },
         {
-            "0x1812": "Human Interface Device"
+            "uuid": "0x1812",
+            "name": "Human Interface Device"
         },
         {
-            "0x1813": "Scan Parameters"
+            "uuid": "0x1813",
+            "name": "Scan Parameters"
         },
         {
-            "0x1814": "Running Speed and Cadence"
+            "uuid": "0x1814",
+            "name": "Running Speed and Cadence"
         },
         {
-            "0x1815": "Automation IO"
+            "uuid": "0x1815",
+            "name": "Automation IO"
         },
         {
-            "0x1816": "Cycling Speed and Cadence"
+            "uuid": "0x1816",
+            "name": "Cycling Speed and Cadence"
         },
         {
-            "0x1818": "Cycling Power"
+            "uuid": "0x1818",
+            "name": "Cycling Power"
         },
         {
-            "0x1819": "Location and Navigation"
+            "uuid": "0x1819",
+            "name": "Location and Navigation"
         },
         {
-            "0x181A": "Environmental Sensing"
+            "uuid": "0x181A",
+            "name": "Environmental Sensing"
         },
         {
-            "0x181B": "Body Composition"
+            "uuid": "0x181B",
+            "name": "Body Composition"
         },
         {
-            "0x181C": "User Data"
+            "uuid": "0x181C",
+            "name": "User Data"
         },
         {
-            "0x181D": "Weight Scale"
+            "uuid": "0x181D",
+            "name": "Weight Scale"
         },
         {
-            "0x181E": "Bond Management "
+            "uuid": "0x181E",
+            "name": "Bond Management "
         },
         {
-            "0x181F": "Continuous Glucose Monitoring "
+            "uuid": "0x181F",
+            "name": "Continuous Glucose Monitoring "
         },
         {
-            "0x1820": "Internet Protocol Support"
+            "uuid": "0x1820",
+            "name": "Internet Protocol Support"
         },
         {
-            "0x1821": "Indoor Positioning "
+            "uuid": "0x1821",
+            "name": "Indoor Positioning "
         },
         {
-            "0x1822": "Pulse Oximeter"
+            "uuid": "0x1822",
+            "name": "Pulse Oximeter"
         },
         {
-            "0x1823": "HTTP Proxy"
+            "uuid": "0x1823",
+            "name": "HTTP Proxy"
         },
         {
-            "0x1824": "Transport Discovery "
+            "uuid": "0x1824",
+            "name": "Transport Discovery "
         },
         {
-            "0x1825": "Object Transfer "
+            "uuid": "0x1825",
+            "name": "Object Transfer "
         },
         {
-            "0x1826": "Fitness Machine"
+            "uuid": "0x1826",
+            "name": "Fitness Machine"
         },
         {
-            "0x1827": "Mesh Provisioning "
+            "uuid": "0x1827",
+            "name": "Mesh Provisioning "
         },
         {
-            "0x1828": "Mesh Proxy"
+            "uuid": "0x1828",
+            "name": "Mesh Proxy"
         },
         {
-            "0x1829": "Reconnection Configuration "
+            "uuid": "0x1829",
+            "name": "Reconnection Configuration "
         },
         {
-            "0x183A": "Insulin Delivery "
+            "uuid": "0x183A",
+            "name": "Insulin Delivery "
         },
         {
-            "0x183B": "Binary Sensor"
+            "uuid": "0x183B",
+            "name": "Binary Sensor"
         },
         {
-            "0x183C": "Emergency Configuration"
+            "uuid": "0x183C",
+            "name": "Emergency Configuration"
         },
         {
-            "0x183E": "Physical Activity Monitor "
+            "uuid": "0x183E",
+            "name": "Physical Activity Monitor "
         },
         {
-            "0x1843": "Audio Input Control "
+            "uuid": "0x1843",
+            "name": "Audio Input Control "
         },
         {
-            "0x1844": "Volume Control"
+            "uuid": "0x1844",
+            "name": "Volume Control"
         },
         {
-            "0x1845": "Volume Offset Control"
+            "uuid": "0x1845",
+            "name": "Volume Offset Control"
         },
         {
-            "0x1846": "Coordinated Set Identification Service"
+            "uuid": "0x1846",
+            "name": "Coordinated Set Identification"
         },
         {
-            "0x1847": "Device Time"
+            "uuid": "0x1847",
+            "name": "Device Time"
         },
         {
-            "0x1848": "Media Control Service "
+            "uuid": "0x1848",
+            "name": "Media Control "
         },
         {
-            "0x1849": "Generic Media Control Service "
+            "uuid": "0x1849",
+            "name": "Generic Media Control"
         },
         {
-            "0x184A": "Constant Tone Extension"
+            "uuid": "0x184A",
+            "name": "Constant Tone Extension"
         },
         {
-            "0x184B": "Telephone Bearer Service"
+            "uuid": "0x184B",
+            "name": "Telephone Bearer"
         },
         {
-            "0x184C": "Generic Telephone Bearer Service"
+            "uuid": "0x184C",
+            "name": "Generic Telephone Bearer"
         },
         {
-            "0x184D": "Microphone Control"
+            "uuid": "0x184D",
+            "name": "Microphone Control"
         },
         {
-            "0x184E": "Audio Stream Control Service "
+            "uuid": "0x184E",
+            "name": "Audio Stream Control"
         },
         {
-            "0x184F": "Broadcast Audio Scan Service "
+            "uuid": "0x184F",
+            "name": "Broadcast Audio Scan"
         },
         {
-            "0x1850": "Published Audio Capabilities Service "
+            "uuid": "0x1850",
+            "name": "Published Audio Capabilities"
         },
         {
-            "0x1851": "Basic\u202fAudio Announcement Service "
+            "uuid": "0x1851",
+            "name": "Basic\u202fAudio Announcement  "
         },
         {
-            "0x1852": "Broadcast\u202fAudio Announcement Service "
+            "uuid": "0x1852",
+            "name": "Broadcast\u202fAudio Announcement  "
         },
         {
-            "0x1853": "Common Audio Service"
+            "uuid": "0x1853",
+            "name": "Common Audio "
         },
         {
-            "0x1854": "Hearing Access Service"
+            "uuid": "0x1854",
+            "name": "Hearing Access "
         },
         {
-            "0x1855": "TMAS Service"
+            "uuid": "0x1855",
+            "name": "TMAS "
+        },
+        {
+            "uuid": "0x1856",
+            "name": "Public Broadcast Announcement"
         }
     ],
     "GATT Unit ": [
         {
-            "0x2700": "unitless"
+            "uuid": "0x2700",
+            "name": "unitless"
         },
         {
-            "0x2701": "length (metre)"
+            "uuid": "0x2701",
+            "name": "length (metre)"
         },
         {
-            "0x2702": "mass (kilogram)"
+            "uuid": "0x2702",
+            "name": "mass (kilogram)"
         },
         {
-            "0x2703": "time (second)"
+            "uuid": "0x2703",
+            "name": "time (second)"
         },
         {
-            "0x2704": "electric current (ampere)"
+            "uuid": "0x2704",
+            "name": "electric current (ampere)"
         },
         {
-            "0x2705": "thermodynamic temperature (kelvin)"
+            "uuid": "0x2705",
+            "name": "thermodynamic temperature (kelvin)"
         },
         {
-            "0x2706": "amount of substance (mole)"
+            "uuid": "0x2706",
+            "name": "amount of substance (mole)"
         },
         {
-            "0x2707": "luminous intensity (candela)"
+            "uuid": "0x2707",
+            "name": "luminous intensity (candela)"
         },
         {
-            "0x2710": "area (square metres)"
+            "uuid": "0x2710",
+            "name": "area (square metres)"
         },
         {
-            "0x2711": "volume (cubic metres)"
+            "uuid": "0x2711",
+            "name": "volume (cubic metres)"
         },
         {
-            "0x2712": "velocity (metres per second)"
+            "uuid": "0x2712",
+            "name": "velocity (metres per second)"
         },
         {
-            "0x2713": "acceleration (metres per second squared)"
+            "uuid": "0x2713",
+            "name": "acceleration (metres per second squared)"
         },
         {
-            "0x2714": "wavenumber (reciprocal metre)"
+            "uuid": "0x2714",
+            "name": "wavenumber (reciprocal metre)"
         },
         {
-            "0x2715": "density (kilogram per cubic metre)"
+            "uuid": "0x2715",
+            "name": "density (kilogram per cubic metre)"
         },
         {
-            "0x2716": "surface density (kilogram per square metre)"
+            "uuid": "0x2716",
+            "name": "surface density (kilogram per square metre)"
         },
         {
-            "0x2717": "specific volume (cubic metre per kilogram)"
+            "uuid": "0x2717",
+            "name": "specific volume (cubic metre per kilogram)"
         },
         {
-            "0x2718": "current density (ampere per square metre)"
+            "uuid": "0x2718",
+            "name": "current density (ampere per square metre)"
         },
         {
-            "0x2719": "magnetic field strength (ampere per metre)"
+            "uuid": "0x2719",
+            "name": "magnetic field strength (ampere per metre)"
         },
         {
-            "0x271A": "amount concentration (mole per cubic metre)"
+            "uuid": "0x271A",
+            "name": "amount concentration (mole per cubic metre)"
         },
         {
-            "0x271B": "mass concentration (kilogram per cubic metre)"
+            "uuid": "0x271B",
+            "name": "mass concentration (kilogram per cubic metre)"
         },
         {
-            "0x271C": "luminance (candela per square metre)"
+            "uuid": "0x271C",
+            "name": "luminance (candela per square metre)"
         },
         {
-            "0x271D": "refractive index"
+            "uuid": "0x271D",
+            "name": "refractive index"
         },
         {
-            "0x271E": "relative permeability"
+            "uuid": "0x271E",
+            "name": "relative permeability"
         },
         {
-            "0x2720": "plane angle (radian)"
+            "uuid": "0x2720",
+            "name": "plane angle (radian)"
         },
         {
-            "0x2721": "solid angle (steradian)"
+            "uuid": "0x2721",
+            "name": "solid angle (steradian)"
         },
         {
-            "0x2722": "frequency (hertz)"
+            "uuid": "0x2722",
+            "name": "frequency (hertz)"
         },
         {
-            "0x2723": "force (newton)"
+            "uuid": "0x2723",
+            "name": "force (newton)"
         },
         {
-            "0x2724": "pressure (pascal)"
+            "uuid": "0x2724",
+            "name": "pressure (pascal)"
         },
         {
-            "0x2725": "energy (joule)"
+            "uuid": "0x2725",
+            "name": "energy (joule)"
         },
         {
-            "0x2726": "power (watt)"
+            "uuid": "0x2726",
+            "name": "power (watt)"
         },
         {
-            "0x2727": "electric charge (coulomb)"
+            "uuid": "0x2727",
+            "name": "electric charge (coulomb)"
         },
         {
-            "0x2728": "electric potential difference (volt)"
+            "uuid": "0x2728",
+            "name": "electric potential difference (volt)"
         },
         {
-            "0x2729": "capacitance (farad)"
+            "uuid": "0x2729",
+            "name": "capacitance (farad)"
         },
         {
-            "0x272A": "electric resistance (ohm)"
+            "uuid": "0x272A",
+            "name": "electric resistance (ohm)"
         },
         {
-            "0x272B": "electric conductance (siemens)"
+            "uuid": "0x272B",
+            "name": "electric conductance (siemens)"
         },
         {
-            "0x272C": "magnetic flux (weber)"
+            "uuid": "0x272C",
+            "name": "magnetic flux (weber)"
         },
         {
-            "0x272D": "magnetic flux density (tesla)"
+            "uuid": "0x272D",
+            "name": "magnetic flux density (tesla)"
         },
         {
-            "0x272E": "inductance (henry)"
+            "uuid": "0x272E",
+            "name": "inductance (henry)"
         },
         {
-            "0x272F": "Celsius temperature (degree Celsius)"
+            "uuid": "0x272F",
+            "name": "Celsius temperature (degree Celsius)"
         },
         {
-            "0x2730": "luminous flux (lumen)"
+            "uuid": "0x2730",
+            "name": "luminous flux (lumen)"
         },
         {
-            "0x2731": "illuminance (lux)"
+            "uuid": "0x2731",
+            "name": "illuminance (lux)"
         },
         {
-            "0x2732": "activity referred to a radionuclide (becquerel)"
+            "uuid": "0x2732",
+            "name": "activity referred to a radionuclide (becquerel)"
         },
         {
-            "0x2733": "absorbed dose (gray)"
+            "uuid": "0x2733",
+            "name": "absorbed dose (gray)"
         },
         {
-            "0x2734": "dose equivalent (sievert)"
+            "uuid": "0x2734",
+            "name": "dose equivalent (sievert)"
         },
         {
-            "0x2735": "catalytic activity (katal)"
+            "uuid": "0x2735",
+            "name": "catalytic activity (katal)"
         },
         {
-            "0x2740": "dynamic viscosity (pascal second)"
+            "uuid": "0x2740",
+            "name": "dynamic viscosity (pascal second)"
         },
         {
-            "0x2741": "moment of force (newton metre)"
+            "uuid": "0x2741",
+            "name": "moment of force (newton metre)"
         },
         {
-            "0x2742": "surface tension (newton per metre)"
+            "uuid": "0x2742",
+            "name": "surface tension (newton per metre)"
         },
         {
-            "0x2743": "angular velocity (radian per second)"
+            "uuid": "0x2743",
+            "name": "angular velocity (radian per second)"
         },
         {
-            "0x2744": "angular acceleration (radian per second squared)"
+            "uuid": "0x2744",
+            "name": "angular acceleration (radian per second squared)"
         },
         {
-            "0x2745": "heat flux density (watt per square metre)"
+            "uuid": "0x2745",
+            "name": "heat flux density (watt per square metre)"
         },
         {
-            "0x2746": "heat capacity (joule per kelvin)"
+            "uuid": "0x2746",
+            "name": "heat capacity (joule per kelvin)"
         },
         {
-            "0x2747": "specific heat capacity (joule per kilogram kelvin)"
+            "uuid": "0x2747",
+            "name": "specific heat capacity (joule per kilogram kelvin)"
         },
         {
-            "0x2748": "specific energy (joule per kilogram)"
+            "uuid": "0x2748",
+            "name": "specific energy (joule per kilogram)"
         },
         {
-            "0x2749": "thermal conductivity (watt per metre kelvin)"
+            "uuid": "0x2749",
+            "name": "thermal conductivity (watt per metre kelvin)"
         },
         {
-            "0x274A": "energy density (joule per cubic metre)"
+            "uuid": "0x274A",
+            "name": "energy density (joule per cubic metre)"
         },
         {
-            "0x274B": "electric field strength (volt per metre)"
+            "uuid": "0x274B",
+            "name": "electric field strength (volt per metre)"
         },
         {
-            "0x274C": "electric charge density (coulomb per cubic metre)"
+            "uuid": "0x274C",
+            "name": "electric charge density (coulomb per cubic metre)"
         },
         {
-            "0x274D": "surface charge density (coulomb per square metre)"
+            "uuid": "0x274D",
+            "name": "surface charge density (coulomb per square metre)"
         },
         {
-            "0x274E": "electric flux density (coulomb per square metre)"
+            "uuid": "0x274E",
+            "name": "electric flux density (coulomb per square metre)"
         },
         {
-            "0x274F": "permittivity (farad per metre)"
+            "uuid": "0x274F",
+            "name": "permittivity (farad per metre)"
         },
         {
-            "0x2750": "permeability (henry per metre)"
+            "uuid": "0x2750",
+            "name": "permeability (henry per metre)"
         },
         {
-            "0x2751": "molar energy (joule per mole)"
+            "uuid": "0x2751",
+            "name": "molar energy (joule per mole)"
         },
         {
-            "0x2752": "molar entropy (joule per mole kelvin)"
+            "uuid": "0x2752",
+            "name": "molar entropy (joule per mole kelvin)"
         },
         {
-            "0x2753": "exposure (coulomb per kilogram)"
+            "uuid": "0x2753",
+            "name": "exposure (coulomb per kilogram)"
         },
         {
-            "0x2754": "absorbed dose rate (gray per second)"
+            "uuid": "0x2754",
+            "name": "absorbed dose rate (gray per second)"
         },
         {
-            "0x2755": "radiant intensity (watt per steradian)"
+            "uuid": "0x2755",
+            "name": "radiant intensity (watt per steradian)"
         },
         {
-            "0x2756": "radiance (watt per square metre steradian)"
+            "uuid": "0x2756",
+            "name": "radiance (watt per square metre steradian)"
         },
         {
-            "0x2757": "catalytic activity concentration (katal per cubic metre)"
+            "uuid": "0x2757",
+            "name": "catalytic activity concentration (katal per cubic metre)"
         },
         {
-            "0x2760": "time (minute)"
+            "uuid": "0x2760",
+            "name": "time (minute)"
         },
         {
-            "0x2761": "time (hour)"
+            "uuid": "0x2761",
+            "name": "time (hour)"
         },
         {
-            "0x2762": "time (day)"
+            "uuid": "0x2762",
+            "name": "time (day)"
         },
         {
-            "0x2763": "plane angle (degree)"
+            "uuid": "0x2763",
+            "name": "plane angle (degree)"
         },
         {
-            "0x2764": "plane angle (minute)"
+            "uuid": "0x2764",
+            "name": "plane angle (minute)"
         },
         {
-            "0x2765": "plane angle (second)"
+            "uuid": "0x2765",
+            "name": "plane angle (second)"
         },
         {
-            "0x2766": "area (hectare)"
+            "uuid": "0x2766",
+            "name": "area (hectare)"
         },
         {
-            "0x2767": "volume (litre)"
+            "uuid": "0x2767",
+            "name": "volume (litre)"
         },
         {
-            "0x2768": "mass (tonne)"
+            "uuid": "0x2768",
+            "name": "mass (tonne)"
         },
         {
-            "0x2780": "pressure (bar)"
+            "uuid": "0x2780",
+            "name": "pressure (bar)"
         },
         {
-            "0x2781": "pressure (millimetre of mercury)"
+            "uuid": "0x2781",
+            "name": "pressure (millimetre of mercury)"
         },
         {
-            "0x2782": "length (\u00e5ngstr\u00f6m)"
+            "uuid": "0x2782",
+            "name": "length (\u00e5ngstr\u00f6m)"
         },
         {
-            "0x2783": "length (nautical mile)"
+            "uuid": "0x2783",
+            "name": "length (nautical mile)"
         },
         {
-            "0x2784": "area (barn)"
+            "uuid": "0x2784",
+            "name": "area (barn)"
         },
         {
-            "0x2785": "velocity (knot)"
+            "uuid": "0x2785",
+            "name": "velocity (knot)"
         },
         {
-            "0x2786": "logarithmic radio quantity (neper)"
+            "uuid": "0x2786",
+            "name": "logarithmic radio quantity (neper)"
         },
         {
-            "0x2787": "logarithmic radio quantity (bel)"
+            "uuid": "0x2787",
+            "name": "logarithmic radio quantity (bel)"
         },
         {
-            "0x27A0": "length (yard)"
+            "uuid": "0x27A0",
+            "name": "length (yard)"
         },
         {
-            "0x27A1": "length (parsec)"
+            "uuid": "0x27A1",
+            "name": "length (parsec)"
         },
         {
-            "0x27A2": "length (inch)"
+            "uuid": "0x27A2",
+            "name": "length (inch)"
         },
         {
-            "0x27A3": "length (foot)"
+            "uuid": "0x27A3",
+            "name": "length (foot)"
         },
         {
-            "0x27A4": "length (mile)"
+            "uuid": "0x27A4",
+            "name": "length (mile)"
         },
         {
-            "0x27A5": "pressure (pound-force per square inch)"
+            "uuid": "0x27A5",
+            "name": "pressure (pound-force per square inch)"
         },
         {
-            "0x27A6": "velocity (kilometre per hour)"
+            "uuid": "0x27A6",
+            "name": "velocity (kilometre per hour)"
         },
         {
-            "0x27A7": "velocity (mile per hour)"
+            "uuid": "0x27A7",
+            "name": "velocity (mile per hour)"
         },
         {
-            "0x27A8": "angular velocity (revolution per minute)"
+            "uuid": "0x27A8",
+            "name": "angular velocity (revolution per minute)"
         },
         {
-            "0x27A9": "energy (gram calorie)"
+            "uuid": "0x27A9",
+            "name": "energy (gram calorie)"
         },
         {
-            "0x27AA": "energy (kilogram calorie)"
+            "uuid": "0x27AA",
+            "name": "energy (kilogram calorie)"
         },
         {
-            "0x27AB": "energy (kilowatt hour)"
+            "uuid": "0x27AB",
+            "name": "energy (kilowatt hour)"
         },
         {
-            "0x27AC": "thermodynamic temperature (degree Fahrenheit)"
+            "uuid": "0x27AC",
+            "name": "thermodynamic temperature (degree Fahrenheit)"
         },
         {
-            "0x27AD": "percentage"
+            "uuid": "0x27AD",
+            "name": "percentage"
         },
         {
-            "0x27AE": "per mille"
+            "uuid": "0x27AE",
+            "name": "per mille"
         },
         {
-            "0x27AF": "period (beats per minute)"
+            "uuid": "0x27AF",
+            "name": "period (beats per minute)"
         },
         {
-            "0x27B0": "electric charge (ampere hours)"
+            "uuid": "0x27B0",
+            "name": "electric charge (ampere hours)"
         },
         {
-            "0x27B1": "mass density (milligram per decilitre)"
+            "uuid": "0x27B1",
+            "name": "mass density (milligram per decilitre)"
         },
         {
-            "0x27B2": "mass density (millimole per litre)"
+            "uuid": "0x27B2",
+            "name": "mass density (millimole per litre)"
         },
         {
-            "0x27B3": "time (year)"
+            "uuid": "0x27B3",
+            "name": "time (year)"
         },
         {
-            "0x27B4": "time (month)"
+            "uuid": "0x27B4",
+            "name": "time (month)"
         },
         {
-            "0x27B5": "concentration (count per cubic metre)"
+            "uuid": "0x27B5",
+            "name": "concentration (count per cubic metre)"
         },
         {
-            "0x27B6": "irradiance (watt per square metre)"
+            "uuid": "0x27B6",
+            "name": "irradiance (watt per square metre)"
         },
         {
-            "0x27B7": "milliliter (per kilogram per minute)"
+            "uuid": "0x27B7",
+            "name": "milliliter (per kilogram per minute)"
         },
         {
-            "0x27B8": "mass (pound)"
+            "uuid": "0x27B8",
+            "name": "mass (pound)"
         },
         {
-            "0x27B9": "metabolic equivalent"
+            "uuid": "0x27B9",
+            "name": "metabolic equivalent"
         },
         {
-            "0x27BA": "step (per minute)"
+            "uuid": "0x27BA",
+            "name": "step (per minute)"
         },
         {
-            "0x27BC": "stroke (per minute)"
+            "uuid": "0x27BC",
+            "name": "stroke (per minute)"
         },
         {
-            "0x27BD": "pace (kilometre per minute)"
+            "uuid": "0x27BD",
+            "name": "pace (kilometre per minute)"
         },
         {
-            "0x27BE": "luminous efficacy (lumen per watt)"
+            "uuid": "0x27BE",
+            "name": "luminous efficacy (lumen per watt)"
         },
         {
-            "0x27BF": "luminous energy (lumen hour)"
+            "uuid": "0x27BF",
+            "name": "luminous energy (lumen hour)"
         },
         {
-            "0x27C0": "luminous exposure (lux hour)"
+            "uuid": "0x27C0",
+            "name": "luminous exposure (lux hour)"
         },
         {
-            "0x27C1": "mass flow (gram per second)"
+            "uuid": "0x27C1",
+            "name": "mass flow (gram per second)"
         },
         {
-            "0x27C2": "volume flow (litre per second)"
+            "uuid": "0x27C2",
+            "name": "volume flow (litre per second)"
         },
         {
-            "0x27C3": "sound pressure (decible)"
+            "uuid": "0x27C3",
+            "name": "sound pressure (decibel)"
         },
         {
-            "0x27C4": "parts per million"
+            "uuid": "0x27C4",
+            "name": "parts per million"
         },
         {
-            "0x27C5": "parts per billion"
+            "uuid": "0x27C5",
+            "name": "parts per billion"
+        },
+        {
+            "uuid": "0x27C6",
+            "name": "Mass Density Rate ((milligram per decilitre) per minute)"
         }
     ],
     "Protocol Identifier": [
         {
-            "0x0001 ": "SDP"
+            "uuid": "0x0001 ",
+            "name": "SDP"
         },
         {
-            "0x0002 ": "UDP"
+            "uuid": "0x0002 ",
+            "name": "UDP"
         },
         {
-            "0x0003 ": "RFCOMM"
+            "uuid": "0x0003 ",
+            "name": "RFCOMM"
         },
         {
-            "0x0004 ": "TCP"
+            "uuid": "0x0004 ",
+            "name": "TCP"
         },
         {
-            "0x0005 ": "TCS-BIN"
+            "uuid": "0x0005 ",
+            "name": "TCS-BIN"
         },
         {
-            "0x0006 ": "TCS-AT"
+            "uuid": "0x0006 ",
+            "name": "TCS-AT"
         },
         {
-            "0x0007": "ATT"
+            "uuid": "0x0007",
+            "name": "ATT"
         },
         {
-            "0x0008 ": "OBEX"
+            "uuid": "0x0008 ",
+            "name": "OBEX"
         },
         {
-            "0x0009 ": "IP"
+            "uuid": "0x0009 ",
+            "name": "IP"
         },
         {
-            "0x000A ": "FTP"
+            "uuid": "0x000A ",
+            "name": "FTP"
         },
         {
-            "0x000C ": "HTTP"
+            "uuid": "0x000C ",
+            "name": "HTTP"
         },
         {
-            "0x000E ": "WSP"
+            "uuid": "0x000E ",
+            "name": "WSP"
         },
         {
-            "0x000F": "BNEP"
+            "uuid": "0x000F",
+            "name": "BNEP"
         },
         {
-            "0x0010 ": "UPNP"
+            "uuid": "0x0010 ",
+            "name": "UPNP"
         },
         {
-            "0x0011 ": "HIDP"
+            "uuid": "0x0011 ",
+            "name": "HIDP"
         },
         {
-            "0x0012": "HardcopyControlChannel"
+            "uuid": "0x0012",
+            "name": "HardcopyControlChannel"
         },
         {
-            "0x0014": "HardcopyDataChannel"
+            "uuid": "0x0014",
+            "name": "HardcopyDataChannel"
         },
         {
-            "0x0016 ": "HardcopyNotification"
+            "uuid": "0x0016 ",
+            "name": "HardcopyNotification"
         },
         {
-            "0x0017": "AVCTP"
+            "uuid": "0x0017",
+            "name": "AVCTP"
         },
         {
-            "0x0019 ": "AVDTP"
+            "uuid": "0x0019 ",
+            "name": "AVDTP"
         },
         {
-            "0x001B ": "CMTP"
+            "uuid": "0x001B ",
+            "name": "CMTP"
         },
         {
-            "0x001E ": "MCAPControlChannel"
+            "uuid": "0x001E ",
+            "name": "MCAPControlChannel"
         },
         {
-            "0x001F ": "MCAPDataChannel"
+            "uuid": "0x001F ",
+            "name": "MCAPDataChannel"
         },
         {
-            "0x0100 ": "L2CAP"
+            "uuid": "0x0100 ",
+            "name": "L2CAP"
         }
     ],
     "SDO GATT Service": [
         {
-            "0xFFF3": "FiRa Consortium"
+            "uuid": "0xFFF3",
+            "name": "FiRa Consortium Service"
         },
         {
-            "0xFFF4": "FiRa Consortium"
+            "uuid": "0xFFF4",
+            "name": "FiRa Consortium Service"
         },
         {
-            "0xFFF5": "Car Connectivity Consortium, LLC"
+            "uuid": "0xFFF5",
+            "name": "Car Connectivity Consortium, LLC Service"
         },
         {
-            "0xFFF6": "ZigBee Alliance"
+            "uuid": "0xFFF6",
+            "name": "ZigBee Alliance Service"
         },
         {
-            "0xFFF7": "ZigBee Alliance"
+            "uuid": "0xFFF7",
+            "name": "ZigBee Alliance Service"
         },
         {
-            "0xFFF8": "Mopria Alliance"
+            "uuid": "0xFFF8",
+            "name": "Mopria Alliance BLE Service"
         },
         {
-            "0xFFF9": "Fast IDentity Online Alliance (FIDO)"
+            "uuid": "0xFFF9",
+            "name": "FIDO2 Secure Client-to-Authenticator Transport Service"
         },
         {
-            "0xFFFA": "ASTM International"
+            "uuid": "0xFFFA",
+            "name": "ASTM Remote ID Service"
         },
         {
-            "0xFFFB": "Thread Group, Inc."
+            "uuid": "0xFFFB",
+            "name": "Direct Thread Commissioning Service"
         },
         {
-            "0xFFFC": "AirFuel Alliance"
+            "uuid": "0xFFFC",
+            "name": "Wireless Power Transfer (WPT) Service"
         },
         {
-            "0xFFFD": "Fast IDentity Online Alliance (FIDO)"
+            "uuid": "0xFFFD",
+            "name": "Universal Second Factor Authenticator Service"
         },
         {
-            "0xFFFE": "AirFuel Alliance (formerly Alliance for Wireless Power)"
+            "uuid": "0xFFFE",
+            "name": "Wireless Power Transfer Service"
         }
     ],
     "Service Classes and Profiles": [
         {
-            "0x1000": "ServiceDiscoveryServerServiceClassID"
+            "uuid": "0x1000",
+            "name": "ServiceDiscoveryServerServiceClassID"
         },
         {
-            "0x1001": "BrowseGroupDescriptorServiceClassID"
+            "uuid": "0x1001",
+            "name": "BrowseGroupDescriptorServiceClassID"
         },
         {
-            "0x1101": "SerialPort"
+            "uuid": "0x1101",
+            "name": "SerialPort"
         },
         {
-            "0x1102": "LANAccessUsingPPP"
+            "uuid": "0x1102",
+            "name": "LANAccessUsingPPP"
         },
         {
-            "0x1103": "DialupNetworking"
+            "uuid": "0x1103",
+            "name": "DialupNetworking"
         },
         {
-            "0x1104": "IrMCSync"
+            "uuid": "0x1104",
+            "name": "IrMCSync"
         },
         {
-            "0x1105": "OBEXObjectPush"
+            "uuid": "0x1105",
+            "name": "OBEXObjectPush"
         },
         {
-            "0x1106": "OBEXFileTransfer"
+            "uuid": "0x1106",
+            "name": "OBEXFileTransfer"
         },
         {
-            "0x1107": "IrMCSyncCommand"
+            "uuid": "0x1107",
+            "name": "IrMCSyncCommand"
         },
         {
-            "0x1108": "Headset"
+            "uuid": "0x1108",
+            "name": "Headset"
         },
         {
-            "0x1109": "CordlessTelephony"
+            "uuid": "0x1109",
+            "name": "CordlessTelephony"
         },
         {
-            "0x110A": "AudioSource"
+            "uuid": "0x110A",
+            "name": "AudioSource"
         },
         {
-            "0x110B": "AudioSink"
+            "uuid": "0x110B",
+            "name": "AudioSink"
         },
         {
-            "0x110C": "A/V_RemoteControlTarget"
+            "uuid": "0x110C",
+            "name": "A/V_RemoteControlTarget"
         },
         {
-            "0x110D": "AdvancedAudioDistribution"
+            "uuid": "0x110D",
+            "name": "AdvancedAudioDistribution"
         },
         {
-            "0x110E": "A/V_RemoteControl"
+            "uuid": "0x110E",
+            "name": "A/V_RemoteControl"
         },
         {
-            "0x110F": "A/V_RemoteControlController"
+            "uuid": "0x110F",
+            "name": "A/V_RemoteControlController"
         },
         {
-            "0x1110": "Intercom"
+            "uuid": "0x1110",
+            "name": "Intercom"
         },
         {
-            "0x1111": "Fax"
+            "uuid": "0x1111",
+            "name": "Fax"
         },
         {
-            "0x1112": "Headset - Audio Gateway "
+            "uuid": "0x1112",
+            "name": "Headset - Audio Gateway "
         },
         {
-            "0x1113": "WAP"
+            "uuid": "0x1113",
+            "name": "WAP"
         },
         {
-            "0x1114": "WAP_CLIENT"
+            "uuid": "0x1114",
+            "name": "WAP_CLIENT"
         },
         {
-            "0x1115": "PANU"
+            "uuid": "0x1115",
+            "name": "PANU"
         },
         {
-            "0x1116": "NAP"
+            "uuid": "0x1116",
+            "name": "NAP"
         },
         {
-            "0x1117": "GN"
+            "uuid": "0x1117",
+            "name": "GN"
         },
         {
-            "0x1118": "DirectPrinting"
+            "uuid": "0x1118",
+            "name": "DirectPrinting"
         },
         {
-            "0x1119": "ReferencePrinting"
+            "uuid": "0x1119",
+            "name": "ReferencePrinting"
         },
         {
-            "0x111A": "Basic Imaging Profile"
+            "uuid": "0x111A",
+            "name": "Basic Imaging Profile"
         },
         {
-            "0x111B": "ImagingResponder"
+            "uuid": "0x111B",
+            "name": "ImagingResponder"
         },
         {
-            "0x111C": "ImagingAutomaticArchive"
+            "uuid": "0x111C",
+            "name": "ImagingAutomaticArchive"
         },
         {
-            "0x111D": "ImagingReferencedObjects"
+            "uuid": "0x111D",
+            "name": "ImagingReferencedObjects"
         },
         {
-            "0x111E": "Handsfree"
+            "uuid": "0x111E",
+            "name": "Handsfree"
         },
         {
-            "0x111F": "HandsfreeAudioGateway"
+            "uuid": "0x111F",
+            "name": "HandsfreeAudioGateway"
         },
         {
-            "0x1120": "DirectPrintingReferenceObjectsService"
+            "uuid": "0x1120",
+            "name": "DirectPrintingReferenceObjectsService"
         },
         {
-            "0x1121": "ReflectedUI"
+            "uuid": "0x1121",
+            "name": "ReflectedUI"
         },
         {
-            "0x1122": "BasicPrinting"
+            "uuid": "0x1122",
+            "name": "BasicPrinting"
         },
         {
-            "0x1123": "PrintingStatus"
+            "uuid": "0x1123",
+            "name": "PrintingStatus"
         },
         {
-            "0x1124": "HumanInterfaceDeviceService"
+            "uuid": "0x1124",
+            "name": "HumanInterfaceDeviceService"
         },
         {
-            "0x1125": "HardcopyCableReplacement"
+            "uuid": "0x1125",
+            "name": "HardcopyCableReplacement"
         },
         {
-            "0x1126": "HCR_Print"
+            "uuid": "0x1126",
+            "name": "HCR_Print"
         },
         {
-            "0x1127": "HCR_Scan"
+            "uuid": "0x1127",
+            "name": "HCR_Scan"
         },
         {
-            "0x1128": "Common_ISDN_Access"
+            "uuid": "0x1128",
+            "name": "Common_ISDN_Access"
         },
         {
-            "0x112D": "SIM_Access"
+            "uuid": "0x112D",
+            "name": "SIM_Access"
         },
         {
-            "0x112E": "Phonebook Access - PCE"
+            "uuid": "0x112E",
+            "name": "Phonebook Access - PCE"
         },
         {
-            "0x112F": "Phonebook Access - PSE"
+            "uuid": "0x112F",
+            "name": "Phonebook Access - PSE"
         },
         {
-            "0x1130": "Phonebook Access"
+            "uuid": "0x1130",
+            "name": "Phonebook Access"
         },
         {
-            "0x1131": "Headset - HS"
+            "uuid": "0x1131",
+            "name": "Headset - HS"
         },
         {
-            "0x1132": "Message Access Server"
+            "uuid": "0x1132",
+            "name": "Message Access Server"
         },
         {
-            "0x1133": "Message Notification Server"
+            "uuid": "0x1133",
+            "name": "Message Notification Server"
         },
         {
-            "0x1134": "Message Access Profile"
+            "uuid": "0x1134",
+            "name": "Message Access Profile"
         },
         {
-            "0x1135": "GNSS"
+            "uuid": "0x1135",
+            "name": "GNSS"
         },
         {
-            "0x1136": "GNSS_Server"
+            "uuid": "0x1136",
+            "name": "GNSS_Server"
         },
         {
-            "0x1137": "3D Display"
+            "uuid": "0x1137",
+            "name": "3D Display"
         },
         {
-            "0x1138": "3D Glasses"
+            "uuid": "0x1138",
+            "name": "3D Glasses"
         },
         {
-            "0x1139": "3D Synchronization"
+            "uuid": "0x1139",
+            "name": "3D Synchronization"
         },
         {
-            "0x113A": "MPS Profile UUID"
+            "uuid": "0x113A",
+            "name": "MPS Profile UUID"
         },
         {
-            "0x113B": "MPS SC UUID"
+            "uuid": "0x113B",
+            "name": "MPS SC UUID"
         },
         {
-            "0x113C": "CTN Access Service"
+            "uuid": "0x113C",
+            "name": "CTN Access Service"
         },
         {
-            "0x113D": "CTN Notification Service"
+            "uuid": "0x113D",
+            "name": "CTN Notification Service"
         },
         {
-            "0x113E": "CTN Profile"
+            "uuid": "0x113E",
+            "name": "CTN Profile"
         },
         {
-            "0x1200": "PnPInformation"
+            "uuid": "0x1200",
+            "name": "PnPInformation"
         },
         {
-            "0x1201": "GenericNetworking"
+            "uuid": "0x1201",
+            "name": "GenericNetworking"
         },
         {
-            "0x1202": "GenericFileTransfer"
+            "uuid": "0x1202",
+            "name": "GenericFileTransfer"
         },
         {
-            "0x1203": "GenericAudio"
+            "uuid": "0x1203",
+            "name": "GenericAudio"
         },
         {
-            "0x1204": "GenericTelephony"
+            "uuid": "0x1204",
+            "name": "GenericTelephony"
         },
         {
-            "0x1205": "UPNP_Service"
+            "uuid": "0x1205",
+            "name": "UPNP_Service"
         },
         {
-            "0x1206": "UPNP_IP_Service"
+            "uuid": "0x1206",
+            "name": "UPNP_IP_Service"
         },
         {
-            "0x1300": "ESDP_UPNP_IP_PAN"
+            "uuid": "0x1300",
+            "name": "ESDP_UPNP_IP_PAN"
         },
         {
-            "0x1301": "ESDP_UPNP_IP_LAP"
+            "uuid": "0x1301",
+            "name": "ESDP_UPNP_IP_LAP"
         },
         {
-            "0x1302": "ESDP_UPNP_L2CAP"
+            "uuid": "0x1302",
+            "name": "ESDP_UPNP_L2CAP"
         },
         {
-            "0x1303": "VideoSource"
+            "uuid": "0x1303",
+            "name": "VideoSource"
         },
         {
-            "0x1304": "VideoSink"
+            "uuid": "0x1304",
+            "name": "VideoSink"
         },
         {
-            "0x1305": "VideoDistribution"
+            "uuid": "0x1305",
+            "name": "VideoDistribution"
         },
         {
-            "0x1400": "HDP"
+            "uuid": "0x1400",
+            "name": "HDP"
         },
         {
-            "0x1401": "HDP Source"
+            "uuid": "0x1401",
+            "name": "HDP Source"
         },
         {
-            "0x1402": "HDP Sink"
+            "uuid": "0x1402",
+            "name": "HDP Sink"
         }
     ]
 }

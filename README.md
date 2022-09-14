@@ -20,11 +20,12 @@ The [generated json](./ble_16_bits_uuids.json) is composed of these arrays:
     "Service Classes and Profiles": [],
 ```
 
-And all identifiers are objects with the 16 bits identifier as key and a string value.
+And all identifiers are objects with this format.
 
 eg.
 ```json
 {
-    "0xFCE8 ": "ITT Industries"
+    "uuid": "0xFCE1",
+    "name": "Sony Group Corporation"
 },
 ```

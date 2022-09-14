@@ -36,7 +36,7 @@ def main(argc, argv):
         text = page.get_text("text").split('\n')
         for i in range(len(text)):
             if text[i] in ROW_FIRST_COLUMN:
-                output[text[i]].append({text[i+1]: text[i+2]})
+                output[text[i]].append({"uuid": text[i+1], "name": text[i+2]})
 
     with open("ble_16_bits_uuids.json", "w") as outfile:
         json.dump(output, outfile, indent=4)
